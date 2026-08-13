@@ -1,0 +1,1443 @@
+{
+  "items": [
+    {
+      "description": "EOSIO learning resources.",
+      "items": [],
+      "title": "Learn"
+    },
+    {
+      "description": "Various software and tools.",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Wallets and Toolkits"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "eoscanada/eosc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-05-15T15:29:49Z",
+            "owner": "eoscanada",
+            "repo": "eosc",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "cleos",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "EOSIO/eos",
+              "description": "Official GitHub (part of EOSIO).",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "C++",
+                "last_commit": "2022-07-27T00:17:50Z",
+                "owner": "EOSIO",
+                "repo": "eos",
+                "stars": 11174
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Anchor Wallet",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "greymass/anchor",
+              "description": "Official GitHub.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-09T12:35:42Z",
+                "owner": "greymass",
+                "repo": "anchor",
+                "stars": 587
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Scatter",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GetScatter/ScatterDesktop",
+              "description": "Official GitHub.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2024-07-22T06:28:09Z",
+                "owner": "GetScatter",
+                "repo": "ScatterDesktop",
+                "stars": 493
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "EOS Toolkit",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "eostoolkit/eostoolkit",
+              "description": "Official GitHub.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2022-12-14T18:14:54Z",
+                "owner": "eostoolkit",
+                "repo": "eostoolkit",
+                "stars": 87
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "SimplEOS",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "eosrio/simpleos",
+              "description": "Official GitHub.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-10T16:58:30Z",
+                "owner": "eosrio",
+                "repo": "simpleos",
+                "stars": 157
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Desktop"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Android client for EOS.IO",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-05-21T07:18:09Z",
+            "owner": "swapnibble",
+            "repo": "EosCommander",
+            "stars": 213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OracleChain/PocketEOS-Android",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-09-14T08:46:41Z",
+            "owner": "OracleChain",
+            "repo": "PocketEOS-Android",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OracleChain/PocketEOS-IOS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2018-11-22T08:27:13Z",
+            "owner": "OracleChain",
+            "repo": "PocketEOS-IOS",
+            "stars": 111
+          }
+        }
+      ],
+      "title": "Mobile"
+    },
+    {
+      "description": "All about development on EOSIO platform.",
+      "items": [],
+      "title": "Developers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "EOSIO Web IDE",
+          "description": "The Web IDE provides developers with a personal single-node EOSIO blockchain for development and testing purposes, running in the Gitpod.io cloud – and accessible from your web browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-07-11T01:18:40Z",
+            "owner": "EOSIO",
+            "repo": "eosio-web-ide",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Helm charts for EOSIO",
+          "description": "EOSIO Nodeos Helm Charts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-03-29T20:07:24Z",
+            "owner": "EOSIO",
+            "repo": "eosio.helm",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Environment"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries and Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "EOSIO/eos",
+          "description": "Official EOSIO GitHub repository.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2022-07-27T00:17:50Z",
+            "owner": "EOSIO",
+            "repo": "eos",
+            "stars": 11174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EOSIO/eos-vm",
+          "description": "A Low-Latency, High Performance and Extensible WebAssembly Backend Library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-07-13T15:56:01Z",
+            "owner": "EOSIO",
+            "repo": "eos-vm",
+            "stars": 200
+          }
+        }
+      ],
+      "title": "Core"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "EOSIO/eosjs",
+          "description": "Official JavaScript SDK.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-08-01T01:38:25Z",
+            "owner": "EOSIO",
+            "repo": "eosjs",
+            "stars": 1424
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EOS.IO Go API library",
+          "description": "Go library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-10-29T14:45:40Z",
+            "owner": "eoscanada",
+            "repo": "eos-go",
+            "stars": 553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EOS Java API Wrapper",
+          "description": "Java library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-10-13T11:26:48Z",
+            "owner": "EOSEssentials2",
+            "repo": "eos-java-rpc-wrapper",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EOSIO/eosio-java",
+          "description": "Official Java SDK.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2022-02-21T11:16:12Z",
+            "owner": "EOSIO",
+            "repo": "eosio-java",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwiftyEOS",
+          "description": "Framework for interacting with EOS, written in Swift.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2019-04-18T08:35:09Z",
+            "owner": "ProChain",
+            "repo": "SwiftyEOS",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EOSIO/eosio-swift",
+          "description": "Official Swift SDK.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2021-12-23T11:12:33Z",
+            "owner": "EOSIO",
+            "repo": "eosio-swift",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "greymass/eosio",
+          "description": "Strongly typed JavaScript library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T23:30:50Z",
+            "owner": "wharfkit",
+            "repo": "antelope",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Native EOS",
+          "description": "Native implementation of client to eos blockchain communication.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-12-01T19:01:59Z",
+            "owner": "GoEvaCom",
+            "repo": "react-native-eos",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "memtrip/eosreach-android",
+          "description": "Kotlin / Android library.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2019-10-01T08:50:25Z",
+            "owner": "memtrip",
+            "repo": "eosreach-android",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EOSRPC API Wrapper for Elixir",
+          "description": "Elixir library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2021-04-12T23:06:45Z",
+            "owner": "cambiatus",
+            "repo": "eosrpc-elixir-wrapper",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "greymass/swift-eosio",
+          "description": "Swift SDK with ESR support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-08T16:07:01Z",
+            "owner": "greymass",
+            "repo": "swift-eosio",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eosnet",
+          "description": ".NET library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-03-17T19:29:09Z",
+            "owner": "SNIKO",
+            "repo": "eosnet",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Transit API for EOS",
+          "description": "Connecting signature providers and dApps through an open-source, modular, and simple standard for EOSIO-based blockchains.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "eosnewyork/eos-transit",
+              "description": "Official GitHub.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2023-01-07T21:52:20Z",
+                "owner": "eosnewyork",
+                "repo": "eos-transit",
+                "stars": 86
+              }
+            }
+          ]
+        }
+      ],
+      "title": "API libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "EOSIO/universal-authenticator-library",
+          "description": "A library for allowing apps to easily use different auth providers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-04-30T15:36:05Z",
+            "owner": "EOSIO",
+            "repo": "universal-authenticator-library",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EOSIO/eosio-reference-ios-authenticator-app",
+          "description": "iOS reference app demonstrating inter-application transaction signing for EOSIO blockchain apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2022-09-21T17:42:16Z",
+            "owner": "EOSIO",
+            "repo": "eosio-reference-ios-authenticator-app",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "greymass/anchor-link",
+          "description": "Persistent, fast and secure signature provider for EOSIO chains built on top of EOSIO Signing Requests (EEP-7).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-10T05:47:04Z",
+            "owner": "greymass",
+            "repo": "anchor-link",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EOSIO/eosio-webauthn-example-app",
+          "description": "Example web app demonstrating EOSIO signing via WebAuthn.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-07-12T00:13:58Z",
+            "owner": "EOSIO",
+            "repo": "eosio-webauthn-example-app",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "greymass/eosio-signing-request",
+          "description": "Library to assist in creating and digesting EOSIO Signing Requests (ESR).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-15T16:56:07Z",
+            "owner": "wharfkit",
+            "repo": "signing-request",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EOSIO/eosio-reference-chrome-extension-authenticator-app",
+          "description": "Chrome extension reference app demonstrating how users could sign transactions using various EOSIO Labs tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-28T03:57:54Z",
+            "owner": "EOSIO",
+            "repo": "eosio-reference-chrome-extension-authenticator-app",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "greymass/ual-anchor",
+          "description": "Authenticator meant to be used with Anchor and Universal Authenticator Library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-08T17:55:23Z",
+            "owner": "greymass",
+            "repo": "ual-anchor",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eosdac/ual-wax",
+          "description": "UAL authenticator for Wax Cloud Wallet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-07-11T03:23:25Z",
+            "owner": "eosdac",
+            "repo": "ual-wax",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EOSIO/ual-scatter",
+          "description": "Authenticator meant to be used with Scatter and Universal Authenticator Library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-07-18T20:38:09Z",
+            "owner": "EOSIO",
+            "repo": "ual-scatter",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "greymass/eosio-signing-request-java",
+          "description": "Java wrapper for the EOSIO Signing Request protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-04-27T01:28:09Z",
+            "owner": "greymass",
+            "repo": "eosio-signing-request-java",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Authentication and Wallet Signing libraries"
+    },
+    {
+      "description": "Intro blog by @cc32d9",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hyperion History API",
+          "description": "Scalable Full History API Solution for EOSIO based blockchains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T08:42:29Z",
+            "owner": "eosrio",
+            "repo": "hyperion-history-api",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EOSIO/history-tools",
+          "description": "Official EOSIO history API plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2022-07-20T14:06:17Z",
+            "owner": "EOSIO",
+            "repo": "history-tools",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EOSIO Light API",
+          "description": "Historic information about EOSIO blockchain accounts and token balances.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2025-10-31T22:34:36Z",
+            "owner": "cc32d9",
+            "repo": "eosio_light_api",
+            "stars": 58
+          }
+        }
+      ],
+      "title": "History"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "EOSIO/eosio.contracts",
+          "description": "Official C++ system contract test suite (notoriously difficult to use).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2022-07-08T04:49:02Z",
+            "owner": "EOSIO",
+            "repo": "eosio.contracts",
+            "stars": 321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tokenika/eosfactory",
+          "description": "Python-based EOSIO smart-contract development & unit testing framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-28T01:59:20Z",
+            "owner": "tokenika",
+            "repo": "eosfactory",
+            "stars": 234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EOSLIME",
+          "description": "Truffle like framework for development, deployment and testing on EOS blockchains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-27T04:33:54Z",
+            "owner": "LimeChain",
+            "repo": "eoslime",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "infeos",
+          "description": "JavaScript based framework for development, building, deploying and unit testing EOSIO dApps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-10-08T15:32:18Z",
+            "owner": "infinitex-tech",
+            "repo": "infeos",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "haderech/vert",
+          "description": "JavaScript EOS-VM emulation RunTime for WASM-based blockchain contracts. Run and test smart contracts.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-06-06T16:52:53Z",
+            "owner": "haderech",
+            "repo": "vert",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Demux",
+          "description": "Demux is a backend infrastructure pattern for sourcing blockchain events to deterministically update queryable datastores and trigger side effects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-07-18T20:27:06Z",
+            "owner": "EOSIO",
+            "repo": "demux-js",
+            "stars": 298
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DelphiOracle",
+          "description": "A multi-party source of truth, designed to provide the near-realtime price of the asset pairs to other smart contracts or to external users.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-10-26T14:16:04Z",
+            "owner": "eostitan",
+            "repo": "delphioracle",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "Services"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "EOSIO/eosio.cdt",
+          "description": "EOSIO.CDT (Contract Development Toolkit) is a suite of tools used to build EOSIO contracts.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2022-06-23T18:18:58Z",
+            "owner": "EOSIO",
+            "repo": "eosio.cdt",
+            "stars": 508
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Octopus",
+          "description": "Security Analysis tool for WebAssembly and Blockchain Smart Contracts (BTC/ETH/NEO/EOS).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-11-24T18:39:20Z",
+            "owner": "FuzzingLabs",
+            "repo": "octopus",
+            "stars": 494
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elliptic curve cryptography functions (ECC)",
+          "description": "Private Key, Public Key, Signature, AES, Encryption / Decryption.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-11T00:59:18Z",
+            "owner": "EOSIO",
+            "repo": "eosjs-ecc",
+            "stars": 288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EOSIO Ethereum Virtual Machine (EVM)",
+          "description": "Ethereum Virtual Machine on EOSIO.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-10-29T10:50:23Z",
+            "owner": "XPRNetwork",
+            "repo": "eosio.evm",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EOSEssentials/EOSDrops",
+          "description": "Airdropping tool for the EOSIO blockchain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-07-03T18:41:05Z",
+            "owner": "EOSEssentials2",
+            "repo": "EOSDrops",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EOSIO/ricardian-template-toolkit",
+          "description": "Renderer for the Ricardian Contract specification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-07-11T00:09:00Z",
+            "owner": "EOSIO",
+            "repo": "ricardian-template-toolkit",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blanc",
+          "description": "A toolchain for building WebAssembly-based blockchain contracts. Currently, Blanc supports EOSIO and CosmWasm (experimental).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2023-10-05T05:37:49Z",
+            "owner": "haderech",
+            "repo": "blanc",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "manh-vv/eosjs-name",
+          "description": "Convert an Eosio name to uint64 and back.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-06T19:50:57Z",
+            "owner": "manh-vv",
+            "repo": "eosjs-name",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "greymass/eosio-resources",
+          "description": "Tool to assist in network resource calculations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-04T17:36:06Z",
+            "owner": "wharfkit",
+            "repo": "resources",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blockchain-etl/eos-etl",
+          "description": "Connector for Google's BigQuery Public Datasets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-22T21:37:21Z",
+            "owner": "blockchain-etl",
+            "repo": "eos-etl",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "maxifom/eos-abigen",
+          "description": "Typescript and Golang code generator for generating type-safe client and tables for EOS-compatible contracts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-09-17T09:26:19Z",
+            "owner": "maxifom",
+            "repo": "eos-abigen",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "greymass/abi2core",
+          "description": "Command line utility to convert ABI definitions to greymass/eosio type definitions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-05-24T16:49:57Z",
+            "owner": "greymass",
+            "repo": "abi2core",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Developer Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "EOSIO/eosio.contracts",
+          "description": "Smart contracts that provide some of the basic functions of the EOSIO blockchain.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2022-07-08T04:49:02Z",
+            "owner": "EOSIO",
+            "repo": "eosio.contracts",
+            "stars": 321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ping-eos",
+          "description": "Implementing ping between EOSIO / React.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-26T20:10:50Z",
+            "owner": "eosasia",
+            "repo": "ping-eos",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EOSEssentials/Scatter-Demos",
+          "description": "A set of integration demos using eosjs and Scatter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-12-06T16:44:36Z",
+            "owner": "EOSEssentials2",
+            "repo": "Scatter-Demos",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eosnewyork/erp",
+          "description": "EOS Resource Planner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-05-07T11:48:47Z",
+            "owner": "eosnewyork",
+            "repo": "erp",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "poorman.token",
+          "description": "EOSIO Token with burning and signup (for making the token RAM cheap).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-06-29T06:31:14Z",
+            "owner": "GenerEOSAus",
+            "repo": "poorman.token",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ipfs-eos-demo",
+          "description": "Demo saving text and images to ipfs and storing the hash on the EOSIO blockchain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-06-20T19:52:51Z",
+            "owner": "wpuricz",
+            "repo": "ipfs-eos-demo",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EOSIO/eosio-java-android-example-app",
+          "description": "Application demonstrating integration with EOSIO-based blockchains using EOSIO SDK for Java.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2022-02-21T11:14:56Z",
+            "owner": "EOSIO",
+            "repo": "eosio-java-android-example-app",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eosfinex Custody Smart Contract",
+          "description": "Eosfinex exchange smart contract.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-03-12T17:10:33Z",
+            "owner": "bitfinexcom",
+            "repo": "eosfinex-custody-contract",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "greymass/anchor-link-demo-multipass",
+          "description": "Example ReactJS application integrating greymass/anchor-link.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-04T15:30:55Z",
+            "owner": "greymass",
+            "repo": "anchor-link-demo-multipass",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theblockstalk/eosio-contracts",
+          "description": "Example smart contracts, dapps and system contract templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-30T19:53:08Z",
+            "owner": "theblockstalk",
+            "repo": "eosio-contracts",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "greymass/eosio-signing-request-demo",
+          "description": "Example generating transactions using greymass/eosio-signing-request.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-12T00:03:46Z",
+            "owner": "greymass",
+            "repo": "eosio-signing-request-demo",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "greymass/ual-anchor-demo",
+          "description": "Example ReactJS application integrating greymass/ual-anchor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-05T07:02:06Z",
+            "owner": "greymass",
+            "repo": "ual-anchor-demo",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "greymass/anchor-link-demo",
+          "description": "Example VueJS application integrating greymass/anchor-link.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-12-11T13:41:56Z",
+            "owner": "greymass",
+            "repo": "anchor-link-demo",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Code examples"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Patroneos",
+          "description": "RPC Checkpoint for EOSIO nodes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-09-21T17:26:59Z",
+            "owner": "EOSIO",
+            "repo": "patroneos",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pete001/eos-bp-failover",
+          "description": "EOSIO Block Producer Failover Scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2019-01-22T14:09:40Z",
+            "owner": "pete001",
+            "repo": "eos-bp-failover",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypherglass WINDSHIELD",
+          "description": "A dashboard tool for monitoring internal Block Producer infrastructure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elm",
+            "last_commit": "2018-08-13T02:01:10Z",
+            "owner": "cypherglassdotcom",
+            "repo": "windshield",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eosdetroit/nodesuite",
+          "description": "Nodesuite is a tool to simplify the management and configuration of eosio nodes through the use of Ansible playbooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jinja",
+            "last_commit": "2025-11-08T05:42:05Z",
+            "owner": "eosdetroit",
+            "repo": "nodesuite",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoogleCloudPlatform/eos-block-producer",
+          "description": "Terraform module to create an EOS Block Producer (BP) node on Google Cloud Platform (GCP).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Smarty",
+            "last_commit": "2021-09-13T23:08:03Z",
+            "owner": "GoogleCloudPlatform",
+            "repo": "eos-block-producer",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eosdetroit/bp-playbook",
+          "description": "A set of playbooks to make managing EOS.IO nodes easier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2018-06-02T00:58:49Z",
+            "owner": "eosdetroit",
+            "repo": "bp-playbook",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eoseoul/eos-ramcost",
+          "description": "Adjusting supply of a token and connector balance of bancor during final phase of boot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-03-13T20:18:32Z",
+            "owner": "eoseoul",
+            "repo": "eos-ramcost",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Block Producer tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "clsdk",
+          "description": "EOSIO smart contract C++ testing framework including in-contract debugging during wasm execution with VS code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-09-19T14:36:11Z",
+            "owner": "gofractally",
+            "repo": "Eden",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OracleChain/EOSBenchTool",
+          "description": "A client side tool for EOS performance testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-09-27T06:45:26Z",
+            "owner": "OracleChain",
+            "repo": "EOSBenchTool",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cleos-auto-completion",
+          "description": "Command auto-completion for EOSIO cleos.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2019-12-15T13:20:01Z",
+            "owner": "Hexlant",
+            "repo": "cleos-auto-completion",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "breakstring/savemyeosram",
+          "description": "Saving RAM on EOS.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "WebAssembly",
+            "last_commit": "2018-07-08T06:34:59Z",
+            "owner": "breakstring",
+            "repo": "savemyeosram",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EOS-Sync",
+          "description": "Syncing the EOSIO blockchain data to mongodb database.",
+          "children": []
+        }
+      ],
+      "title": "Other in Developers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Community"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "EOSIO Ecosystem",
+          "description": "EOSIO multi-chain ecosystem information.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-05-02T21:37:51Z",
+            "owner": "eosio-ecosystem",
+            "repo": "eosio-ecosystem-resources",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Public EOSIO chains and their telegram chats",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-10-08T07:34:14Z",
+            "owner": "eosio-ecosystem",
+            "repo": "chains",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "EOSIO Ecosystem"
+    },
+    {
+      "description": "DApp resources.",
+      "items": [],
+      "title": "DApps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "King Of EOS",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MrToph/KingOfEos",
+              "description": "Official GitHub.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-09-05T10:44:26Z",
+                "owner": "MrToph",
+                "repo": "KingOfEos",
+                "stars": 33
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "MonsterEOS",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MonsterEOS/monstereos",
+              "description": "Official GitHub.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2018-11-26T14:32:43Z",
+                "owner": "MonsterEOS",
+                "repo": "monstereos",
+                "stars": 183
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Games"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "EveripediaNetwork/Everipedia",
+          "description": "The Everipedia Network protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2023-02-28T16:37:38Z",
+            "owner": "IQIndustries",
+            "repo": "Everipedia",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eosfilestore",
+          "description": "Immutable, censorship resistant, cheap, file storage on EOSIO blockchain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "WebAssembly",
+            "last_commit": "2023-02-28T00:24:29Z",
+            "owner": "grigio",
+            "repo": "eosfilestore",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kesar/decentwitter",
+          "description": "Decentralized Twitter on EOS.",
+          "children": []
+        }
+      ],
+      "title": "Other in DApps"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T19:59:32.575Z",
+    "original_repository": "DanailMinchev/awesome-eosio",
+    "original_repository_sha": "2daa91a1752f78a6addc63c3eccbff997cec96da",
+    "enhanced_repository": "enhansome/enhansome-eosio",
+    "enhanced_repository_description": null,
+    "title": "Awesome EOSIO with stars"
+  }
+}
