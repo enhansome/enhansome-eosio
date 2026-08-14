@@ -69,7 +69,7 @@
                 "last_commit": "2026-08-09T12:35:42Z",
                 "owner": "greymass",
                 "repo": "anchor",
-                "stars": 587
+                "stars": 588
               }
             }
           ]
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T19:59:32.575Z",
+    "last_updated": "2026-08-14T19:54:57.034Z",
     "original_repository": "DanailMinchev/awesome-eosio",
     "original_repository_sha": "2daa91a1752f78a6addc63c3eccbff997cec96da",
     "enhanced_repository": "enhansome/enhansome-eosio",
