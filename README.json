@@ -48,7 +48,7 @@
                 "last_commit": "2022-07-27T00:17:50Z",
                 "owner": "EOSIO",
                 "repo": "eos",
-                "stars": 11174
+                "stars": 11173
               }
             }
           ]
@@ -132,7 +132,7 @@
                 "last_commit": "2026-08-10T16:58:30Z",
                 "owner": "eosrio",
                 "repo": "simpleos",
-                "stars": 157
+                "stars": 158
               }
             }
           ]
@@ -246,7 +246,7 @@
             "last_commit": "2022-07-27T00:17:50Z",
             "owner": "EOSIO",
             "repo": "eos",
-            "stars": 11174
+            "stars": 11173
           }
         },
         {
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T19:54:57.034Z",
+    "last_updated": "2026-08-15T19:32:32.812Z",
     "original_repository": "DanailMinchev/awesome-eosio",
     "original_repository_sha": "2daa91a1752f78a6addc63c3eccbff997cec96da",
     "enhanced_repository": "enhansome/enhansome-eosio",

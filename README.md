@@ -106,7 +106,7 @@ Various software and tools.
 * [EOS Toolkit](https://eostoolkit.io/)
   * [eostoolkit/eostoolkit](https://github.com/eostoolkit/eostoolkit) ⚠️ Archived - Official GitHub.
 * [SimplEOS](https://eosrio.io/simpleos/)
-  * [eosrio/simpleos](https://github.com/eosrio/simpleos) ⭐ 157 | 🐛 52 | 🌐 TypeScript | 📅 2026-08-10 - Official GitHub.
+  * [eosrio/simpleos](https://github.com/eosrio/simpleos) ⭐ 158 | 🐛 52 | 🌐 TypeScript | 📅 2026-08-10 - Official GitHub.
 * [EOS Authority Web Wallet](https://eosauthority.com/dashboard)
 * [Wax Cloud Wallet](https://all-access.wax.io/)
 
@@ -367,4 +367,4 @@ DApp resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
