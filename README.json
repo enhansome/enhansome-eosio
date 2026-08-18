@@ -48,7 +48,7 @@
                 "last_commit": "2022-07-27T00:17:50Z",
                 "owner": "EOSIO",
                 "repo": "eos",
-                "stars": 11173
+                "stars": 11172
               }
             }
           ]
@@ -246,7 +246,7 @@
             "last_commit": "2022-07-27T00:17:50Z",
             "owner": "EOSIO",
             "repo": "eos",
-            "stars": 11173
+            "stars": 11172
           }
         },
         {
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T19:40:54.466Z",
+    "last_updated": "2026-08-18T19:38:53.479Z",
     "original_repository": "DanailMinchev/awesome-eosio",
     "original_repository_sha": "2daa91a1752f78a6addc63c3eccbff997cec96da",
     "enhanced_repository": "enhansome/enhansome-eosio",
