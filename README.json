@@ -58,7 +58,7 @@
                         "archived": false,
                         "id": 134008831,
                         "language": "JavaScript",
-                        "last_commit": "2026-08-19T08:03:03Z",
+                        "last_commit": "2026-08-19T20:45:50Z",
                         "owner": "greymass",
                         "repo": "anchor",
                         "stars": 588
@@ -1521,7 +1521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T19:36:36.696Z",
+    "last_updated": "2026-08-20T19:44:00.870Z",
     "original_repository": "DanailMinchev/awesome-eosio",
     "original_repository_id": 139194284,
     "original_repository_sha": "2daa91a1752f78a6addc63c3eccbff997cec96da",
