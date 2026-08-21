@@ -189,7 +189,7 @@ All about development on EOSIO platform.
 * [SwiftyEOS](https://github.com/ProChain/SwiftyEOS) ⚠️ Archived - Framework for interacting with EOS, written in Swift.
 * [EOSIO/eosio-swift](https://github.com/EOSIO/eosio-swift) ⚠️ Archived - Official Swift SDK.
   * [EOSIO SDK for Swift](https://eosio.github.io/eosio-swift/) - API documentation.
-* [greymass/eosio](https://github.com/greymass/eosio-core/) ⭐ 49 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-05 - Strongly typed JavaScript library.
+* [greymass/eosio](https://github.com/greymass/eosio-core/) ⭐ 49 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-21 - Strongly typed JavaScript library.
 * [React Native EOS](https://github.com/EvaCoop/react-native-eos) ⭐ 41 | 🐛 4 | 🌐 C | 📅 2021-12-01 - Native implementation of client to eos blockchain communication.
 * [memtrip/eosreach-android](https://github.com/memtrip/eosreach-android) ⚠️ Archived - Kotlin / Android library.
 * [EOSRPC API Wrapper for Elixir](https://github.com/cambiatus/eosrpc-elixir-wrapper) ⭐ 19 | 🐛 0 | 🌐 Elixir | 📅 2021-04-12 - Elixir library.
@@ -367,4 +367,4 @@ DApp resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._

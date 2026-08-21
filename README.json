@@ -290,7 +290,7 @@
                     "last_commit": "2022-08-01T01:38:25Z",
                     "owner": "EOSIO",
                     "repo": "eosjs",
-                    "stars": 1424
+                    "stars": 1423
                   }
                 },
                 {
@@ -377,7 +377,7 @@
                     "archived": false,
                     "id": 270297983,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-05T23:30:50Z",
+                    "last_commit": "2026-08-21T17:12:15Z",
                     "owner": "wharfkit",
                     "repo": "antelope",
                     "stars": 49
@@ -1521,7 +1521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T19:44:00.870Z",
+    "last_updated": "2026-08-21T19:35:56.953Z",
     "original_repository": "DanailMinchev/awesome-eosio",
     "original_repository_id": 139194284,
     "original_repository_sha": "2daa91a1752f78a6addc63c3eccbff997cec96da",
