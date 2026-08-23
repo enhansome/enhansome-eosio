@@ -159,7 +159,7 @@ All about development on EOSIO platform.
 
 ### Environment
 
-* [EOSIO Web IDE](https://github.com/EOSIO/eosio-web-ide) ⭐ 159 | 🐛 31 | 🌐 TypeScript | 📅 2023-07-11 - The Web IDE provides developers with a personal single-node EOSIO blockchain for development and testing purposes, running in the [Gitpod.io](https://www.gitpod.io/) cloud – and accessible from your web browser.
+* [EOSIO Web IDE](https://github.com/EOSIO/eosio-web-ide) ⭐ 160 | 🐛 31 | 🌐 TypeScript | 📅 2023-07-11 - The Web IDE provides developers with a personal single-node EOSIO blockchain for development and testing purposes, running in the [Gitpod.io](https://www.gitpod.io/) cloud – and accessible from your web browser.
 * [Helm charts for EOSIO](https://github.com/EOSIO/eosio.helm) ⭐ 6 | 🐛 0 | 🌐 Shell | 📅 2021-03-29 - EOSIO Nodeos Helm Charts.
 * [EOS Studio](https://www.eosstudio.io/) - Graphic IDE for EOSIO Development.
 
@@ -367,4 +367,4 @@ DApp resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
