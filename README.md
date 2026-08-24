@@ -48,8 +48,8 @@
 
 Official resources.
 
-* [EOS Network Foundation](https://eosnetwork.com/)
 * [GitHub](https://github.com/AntelopeIO/spring) ⭐ 29 | 🐛 145 | 🌐 C++ | 📅 2025-11-12
+* [EOS Network Foundation](https://eosnetwork.com/)
 * [Blue Paper](https://eosnetwork.com/blog/category/eos-blue-papers/n)
 * [StackExchange for Q\&A](https://eosio.stackexchange.com/)
 * [YouTube](https://www.youtube.com/@EOSNetworkFoundation)
@@ -60,8 +60,8 @@ EOSIO learning resources.
 
 ### Websites
 
-* [EOSIO Developer Portal](https://developers.eos.io/) - A great place to begin your EOSIO blockchain journey.
 * [EOS Smart Contract Development Security Best Practices](https://github.com/slowmist/eos-smart-contract-security-best-practices/blob/master/README_EN.md) ⭐ 392 | 🐛 0 | 📅 2025-07-31
+* [EOSIO Developer Portal](https://developers.eos.io/) - A great place to begin your EOSIO blockchain journey.
 * [EOS Learning Resources - EOS Costa Rica](https://guide.eoscostarica.io/)
 * [ESC - EOS Study Center](https://eosvenezuela.io/esc.html)
 
@@ -367,4 +367,4 @@ DApp resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

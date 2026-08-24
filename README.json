@@ -1,6 +1,55 @@
 {
   "items": [
     {
+      "description": "Official resources.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 782281810,
+            "language": "C++",
+            "last_commit": "2025-11-12T16:35:50Z",
+            "owner": "AntelopeIO",
+            "repo": "spring",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Official"
+    },
+    {
+      "description": "EOSIO learning resources.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "EOS Smart Contract Development Security Best Practices",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 149097369,
+                "language": null,
+                "last_commit": "2025-07-31T09:47:19Z",
+                "owner": "slowmist",
+                "repo": "eos-smart-contract-security-best-practices",
+                "stars": 392
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Websites"
+        }
+      ],
+      "title": "Learn"
+    },
+    {
       "description": "Various software and tools.",
       "items": [
         {
@@ -193,6 +242,35 @@
           "description": null,
           "node_type": "group",
           "title": "Wallets and Toolkits"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "EOS Tracker",
+              "description": "Open Source block explorer includes producers information and account information.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "EOSEssentials/EOSTracker",
+                  "description": "Official GitHub.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 120499419,
+                    "language": "TypeScript",
+                    "last_commit": "2020-01-21T13:04:27Z",
+                    "owner": "EOSEssentials2",
+                    "repo": "EOSTracker2",
+                    "stars": 164
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Block explorers, Voting portals"
         }
       ],
       "title": "Tools"
@@ -1521,7 +1599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:33:17.337Z",
+    "last_updated": "2026-08-24T14:43:48.772Z",
     "original_repository": "DanailMinchev/awesome-eosio",
     "original_repository_id": 139194284,
     "original_repository_sha": "2daa91a1752f78a6addc63c3eccbff997cec96da",
