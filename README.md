@@ -48,7 +48,7 @@
 
 Official resources.
 
-* [GitHub](https://github.com/AntelopeIO/spring) ⭐ 29 | 🐛 145 | 🌐 C++ | 📅 2025-11-12
+* [GitHub](https://github.com/AntelopeIO/spring) ⭐ 29 | 🐛 146 | 🌐 C++ | 📅 2025-11-12
 * [EOS Network Foundation](https://eosnetwork.com/)
 * [Blue Paper](https://eosnetwork.com/blog/category/eos-blue-papers/n)
 * [StackExchange for Q\&A](https://eosio.stackexchange.com/)
@@ -367,4 +367,4 @@ DApp resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
