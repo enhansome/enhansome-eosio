@@ -246,7 +246,7 @@ All about development on EOSIO platform.
 * [Octopus](https://github.com/pventuzelo/octopus) ⚠️ Archived - Security Analysis tool for WebAssembly and Blockchain Smart Contracts (BTC/ETH/NEO/EOS).
 * [Elliptic curve cryptography functions (ECC)](https://github.com/EOSIO/eosjs-ecc) ⭐ 288 | 🐛 46 | 🌐 JavaScript | 📅 2023-07-11 - Private Key, Public Key, Signature, AES, Encryption / Decryption.
   * [Securely Generating an EOS Key Pair Using Official EOS.IO Code](https://www.youtube.com/watch?v=G1GUpjc5hkw) - YouTube.
-* [EOSIO Ethereum Virtual Machine (EVM)](https://github.com/jafri/eosio.evm) ⭐ 94 | 🐛 5 | 🌐 C++ | 📅 2024-10-29 - Ethereum Virtual Machine on EOSIO.
+* [EOSIO Ethereum Virtual Machine (EVM)](https://github.com/jafri/eosio.evm) ⭐ 93 | 🐛 5 | 🌐 C++ | 📅 2024-10-29 - Ethereum Virtual Machine on EOSIO.
 * [EOSEssentials/EOSDrops](https://github.com/EOSEssentials/EOSDrops) ⭐ 55 | 🐛 0 | 🌐 JavaScript | 📅 2018-07-03 - Airdropping tool for the EOSIO blockchain.
 * [EOSIO/ricardian-template-toolkit](https://github.com/EOSIO/ricardian-template-toolkit) ⭐ 45 | 🐛 23 | 🌐 TypeScript | 📅 2023-07-11 - Renderer for the Ricardian Contract specification.
 * [Blanc](https://github.com/haderech/blanc) ⚠️ Archived - A toolchain for building WebAssembly-based blockchain contracts. Currently, Blanc supports EOSIO and CosmWasm (experimental).
@@ -367,4 +367,4 @@ DApp resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

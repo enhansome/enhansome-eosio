@@ -88,7 +88,7 @@
                         "last_commit": "2022-07-27T00:17:50Z",
                         "owner": "EOSIO",
                         "repo": "eos",
-                        "stars": 11173
+                        "stars": 11172
                       }
                     }
                   ]
@@ -331,7 +331,7 @@
                     "last_commit": "2022-07-27T00:17:50Z",
                     "owner": "EOSIO",
                     "repo": "eos",
-                    "stars": 11173
+                    "stars": 11172
                   }
                 },
                 {
@@ -955,7 +955,7 @@
                 "last_commit": "2024-10-29T10:50:23Z",
                 "owner": "XPRNetwork",
                 "repo": "eosio.evm",
-                "stars": 94
+                "stars": 93
               }
             },
             {
@@ -1599,9 +1599,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T21:49:31.259Z",
-    "original_repository": "DanailMinchev/awesome-eosio",
-    "original_repository_id": 139194284,
+    "last_updated": "2026-08-27T11:35:16.561Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 139194284,
+      "language": "Shell",
+      "last_commit": "2026-03-25T22:41:44Z",
+      "owner": "DanailMinchev",
+      "repo": "awesome-eosio",
+      "stars": 87
+    },
     "original_repository_sha": "2daa91a1752f78a6addc63c3eccbff997cec96da",
     "enhanced_repository": "enhansome/enhansome-eosio",
     "enhanced_repository_description": null,
