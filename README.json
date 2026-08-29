@@ -16,7 +16,8 @@
             "owner": "AntelopeIO",
             "repo": "spring",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-29T02:09:38.270Z"
         }
       ],
       "title": "Official"
@@ -39,7 +40,8 @@
                 "owner": "slowmist",
                 "repo": "eos-smart-contract-security-best-practices",
                 "stars": 392
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             }
           ],
           "description": null,
@@ -69,7 +71,8 @@
                     "owner": "eoscanada",
                     "repo": "eosc",
                     "stars": 133
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 },
                 {
                   "node_type": "group",
@@ -88,8 +91,9 @@
                         "last_commit": "2022-07-27T00:17:50Z",
                         "owner": "EOSIO",
                         "repo": "eos",
-                        "stars": 11171
-                      }
+                        "stars": 11172
+                      },
+                      "first_seen": "2026-08-29T02:09:38.270Z"
                     }
                   ]
                 },
@@ -111,7 +115,8 @@
                         "owner": "greymass",
                         "repo": "anchor",
                         "stars": 588
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:09:38.270Z"
                     }
                   ]
                 },
@@ -133,7 +138,8 @@
                         "owner": "GetScatter",
                         "repo": "ScatterDesktop",
                         "stars": 493
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:09:38.270Z"
                     }
                   ]
                 },
@@ -155,7 +161,8 @@
                         "owner": "eostoolkit",
                         "repo": "eostoolkit",
                         "stars": 87
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:09:38.270Z"
                     }
                   ]
                 },
@@ -177,7 +184,8 @@
                         "owner": "eosrio",
                         "repo": "simpleos",
                         "stars": 158
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:09:38.270Z"
                     }
                   ]
                 }
@@ -201,7 +209,8 @@
                     "owner": "swapnibble",
                     "repo": "EosCommander",
                     "stars": 213
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 },
                 {
                   "node_type": "item",
@@ -216,7 +225,8 @@
                     "owner": "OracleChain",
                     "repo": "PocketEOS-Android",
                     "stars": 156
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 },
                 {
                   "node_type": "item",
@@ -231,7 +241,8 @@
                     "owner": "OracleChain",
                     "repo": "PocketEOS-IOS",
                     "stars": 111
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 }
               ],
               "description": null,
@@ -263,7 +274,8 @@
                     "owner": "EOSEssentials2",
                     "repo": "EOSTracker2",
                     "stars": 164
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 }
               ]
             }
@@ -293,7 +305,8 @@
                 "owner": "EOSIO",
                 "repo": "eosio-web-ide",
                 "stars": 160
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -308,7 +321,8 @@
                 "owner": "EOSIO",
                 "repo": "eosio.helm",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             }
           ],
           "description": null,
@@ -331,8 +345,9 @@
                     "last_commit": "2022-07-27T00:17:50Z",
                     "owner": "EOSIO",
                     "repo": "eos",
-                    "stars": 11171
-                  }
+                    "stars": 11172
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 },
                 {
                   "node_type": "item",
@@ -347,7 +362,8 @@
                     "owner": "EOSIO",
                     "repo": "eos-vm",
                     "stars": 200
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 }
               ],
               "description": null,
@@ -369,7 +385,8 @@
                     "owner": "EOSIO",
                     "repo": "eosjs",
                     "stars": 1423
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 },
                 {
                   "node_type": "item",
@@ -384,7 +401,8 @@
                     "owner": "eoscanada",
                     "repo": "eos-go",
                     "stars": 553
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 },
                 {
                   "node_type": "item",
@@ -399,7 +417,8 @@
                     "owner": "EOSEssentials2",
                     "repo": "eos-java-rpc-wrapper",
                     "stars": 163
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 },
                 {
                   "node_type": "item",
@@ -414,7 +433,8 @@
                     "owner": "EOSIO",
                     "repo": "eosio-java",
                     "stars": 126
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 },
                 {
                   "node_type": "item",
@@ -429,7 +449,8 @@
                     "owner": "ProChain",
                     "repo": "SwiftyEOS",
                     "stars": 91
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 },
                 {
                   "node_type": "item",
@@ -444,7 +465,8 @@
                     "owner": "EOSIO",
                     "repo": "eosio-swift",
                     "stars": 63
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 },
                 {
                   "node_type": "item",
@@ -459,7 +481,8 @@
                     "owner": "wharfkit",
                     "repo": "antelope",
                     "stars": 49
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 },
                 {
                   "node_type": "item",
@@ -474,7 +497,8 @@
                     "owner": "GoEvaCom",
                     "repo": "react-native-eos",
                     "stars": 41
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 },
                 {
                   "node_type": "item",
@@ -489,7 +513,8 @@
                     "owner": "memtrip",
                     "repo": "eosreach-android",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 },
                 {
                   "node_type": "item",
@@ -504,7 +529,8 @@
                     "owner": "cambiatus",
                     "repo": "eosrpc-elixir-wrapper",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 },
                 {
                   "node_type": "item",
@@ -519,7 +545,8 @@
                     "owner": "greymass",
                     "repo": "swift-eosio",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 },
                 {
                   "node_type": "item",
@@ -534,7 +561,8 @@
                     "owner": "SNIKO",
                     "repo": "eosnet",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 },
                 {
                   "node_type": "group",
@@ -554,7 +582,8 @@
                         "owner": "eosnewyork",
                         "repo": "eos-transit",
                         "stars": 86
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:09:38.270Z"
                     }
                   ]
                 }
@@ -578,7 +607,8 @@
                     "owner": "EOSIO",
                     "repo": "universal-authenticator-library",
                     "stars": 128
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 },
                 {
                   "node_type": "item",
@@ -593,7 +623,8 @@
                     "owner": "EOSIO",
                     "repo": "eosio-reference-ios-authenticator-app",
                     "stars": 65
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 },
                 {
                   "node_type": "item",
@@ -608,7 +639,8 @@
                     "owner": "greymass",
                     "repo": "anchor-link",
                     "stars": 53
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 },
                 {
                   "node_type": "item",
@@ -623,7 +655,8 @@
                     "owner": "EOSIO",
                     "repo": "eosio-webauthn-example-app",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 },
                 {
                   "node_type": "item",
@@ -638,7 +671,8 @@
                     "owner": "wharfkit",
                     "repo": "signing-request",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 },
                 {
                   "node_type": "item",
@@ -653,7 +687,8 @@
                     "owner": "EOSIO",
                     "repo": "eosio-reference-chrome-extension-authenticator-app",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 },
                 {
                   "node_type": "item",
@@ -668,7 +703,8 @@
                     "owner": "greymass",
                     "repo": "ual-anchor",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 },
                 {
                   "node_type": "item",
@@ -683,7 +719,8 @@
                     "owner": "eosdac",
                     "repo": "ual-wax",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 },
                 {
                   "node_type": "item",
@@ -698,7 +735,8 @@
                     "owner": "EOSIO",
                     "repo": "ual-scatter",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 },
                 {
                   "node_type": "item",
@@ -713,7 +751,8 @@
                     "owner": "greymass",
                     "repo": "eosio-signing-request-java",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 }
               ],
               "description": null,
@@ -735,7 +774,8 @@
                     "owner": "eosrio",
                     "repo": "hyperion-history-api",
                     "stars": 136
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 },
                 {
                   "node_type": "item",
@@ -750,7 +790,8 @@
                     "owner": "EOSIO",
                     "repo": "history-tools",
                     "stars": 65
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 },
                 {
                   "node_type": "item",
@@ -765,7 +806,8 @@
                     "owner": "cc32d9",
                     "repo": "eosio_light_api",
                     "stars": 58
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 }
               ],
               "description": "Intro blog by @cc32d9",
@@ -787,7 +829,8 @@
                     "owner": "EOSIO",
                     "repo": "eosio.contracts",
                     "stars": 321
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 },
                 {
                   "node_type": "item",
@@ -802,7 +845,8 @@
                     "owner": "tokenika",
                     "repo": "eosfactory",
                     "stars": 234
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 },
                 {
                   "node_type": "item",
@@ -817,7 +861,8 @@
                     "owner": "LimeChain",
                     "repo": "eoslime",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 },
                 {
                   "node_type": "item",
@@ -832,7 +877,8 @@
                     "owner": "infinitex-tech",
                     "repo": "infeos",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 },
                 {
                   "node_type": "item",
@@ -847,7 +893,8 @@
                     "owner": "haderech",
                     "repo": "vert",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 }
               ],
               "description": null,
@@ -869,7 +916,8 @@
                     "owner": "EOSIO",
                     "repo": "demux-js",
                     "stars": 298
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 },
                 {
                   "node_type": "item",
@@ -884,7 +932,8 @@
                     "owner": "eostitan",
                     "repo": "delphioracle",
                     "stars": 40
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 }
               ],
               "description": null,
@@ -911,7 +960,8 @@
                 "owner": "EOSIO",
                 "repo": "eosio.cdt",
                 "stars": 508
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -926,7 +976,8 @@
                 "owner": "FuzzingLabs",
                 "repo": "octopus",
                 "stars": 494
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -941,7 +992,8 @@
                 "owner": "EOSIO",
                 "repo": "eosjs-ecc",
                 "stars": 288
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -956,7 +1008,8 @@
                 "owner": "XPRNetwork",
                 "repo": "eosio.evm",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -971,7 +1024,8 @@
                 "owner": "EOSEssentials2",
                 "repo": "EOSDrops",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -986,7 +1040,8 @@
                 "owner": "EOSIO",
                 "repo": "ricardian-template-toolkit",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -1001,7 +1056,8 @@
                 "owner": "haderech",
                 "repo": "blanc",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -1016,7 +1072,8 @@
                 "owner": "manh-vv",
                 "repo": "eosjs-name",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -1031,7 +1088,8 @@
                 "owner": "wharfkit",
                 "repo": "resources",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -1046,7 +1104,8 @@
                 "owner": "blockchain-etl",
                 "repo": "eos-etl",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -1061,7 +1120,8 @@
                 "owner": "maxifom",
                 "repo": "eos-abigen",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -1076,7 +1136,8 @@
                 "owner": "greymass",
                 "repo": "abi2core",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             }
           ],
           "description": null,
@@ -1098,7 +1159,8 @@
                 "owner": "EOSIO",
                 "repo": "eosio.contracts",
                 "stars": 321
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -1113,7 +1175,8 @@
                 "owner": "eosasia",
                 "repo": "ping-eos",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -1128,7 +1191,8 @@
                 "owner": "EOSEssentials2",
                 "repo": "Scatter-Demos",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -1143,7 +1207,8 @@
                 "owner": "eosnewyork",
                 "repo": "erp",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -1158,7 +1223,8 @@
                 "owner": "GenerEOSAus",
                 "repo": "poorman.token",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -1173,7 +1239,8 @@
                 "owner": "wpuricz",
                 "repo": "ipfs-eos-demo",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -1188,7 +1255,8 @@
                 "owner": "EOSIO",
                 "repo": "eosio-java-android-example-app",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -1203,7 +1271,8 @@
                 "owner": "bitfinexcom",
                 "repo": "eosfinex-custody-contract",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -1218,7 +1287,8 @@
                 "owner": "greymass",
                 "repo": "anchor-link-demo-multipass",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -1233,7 +1303,8 @@
                 "owner": "theblockstalk",
                 "repo": "eosio-contracts",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -1248,7 +1319,8 @@
                 "owner": "greymass",
                 "repo": "eosio-signing-request-demo",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -1263,7 +1335,8 @@
                 "owner": "greymass",
                 "repo": "ual-anchor-demo",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -1278,7 +1351,8 @@
                 "owner": "greymass",
                 "repo": "anchor-link-demo",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             }
           ],
           "description": null,
@@ -1300,7 +1374,8 @@
                 "owner": "EOSIO",
                 "repo": "patroneos",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -1315,7 +1390,8 @@
                 "owner": "pete001",
                 "repo": "eos-bp-failover",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -1330,7 +1406,8 @@
                 "owner": "cypherglassdotcom",
                 "repo": "windshield",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -1345,7 +1422,8 @@
                 "owner": "eosdetroit",
                 "repo": "nodesuite",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -1360,7 +1438,8 @@
                 "owner": "GoogleCloudPlatform",
                 "repo": "eos-block-producer",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -1375,7 +1454,8 @@
                 "owner": "eosdetroit",
                 "repo": "bp-playbook",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -1390,7 +1470,8 @@
                 "owner": "eoseoul",
                 "repo": "eos-ramcost",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             }
           ],
           "description": null,
@@ -1412,7 +1493,8 @@
                 "owner": "gofractally",
                 "repo": "Eden",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -1427,7 +1509,8 @@
                 "owner": "OracleChain",
                 "repo": "EOSBenchTool",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -1442,7 +1525,8 @@
                 "owner": "Hexlant",
                 "repo": "cleos-auto-completion",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -1457,7 +1541,8 @@
                 "owner": "breakstring",
                 "repo": "savemyeosram",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             }
           ],
           "description": null,
@@ -1483,7 +1568,8 @@
             "owner": "eosio-ecosystem",
             "repo": "eosio-ecosystem-resources",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T02:09:38.270Z"
         },
         {
           "node_type": "item",
@@ -1498,7 +1584,8 @@
             "owner": "eosio-ecosystem",
             "repo": "chains",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T02:09:38.270Z"
         }
       ],
       "title": "EOSIO Ecosystem"
@@ -1526,7 +1613,8 @@
                     "owner": "MrToph",
                     "repo": "KingOfEos",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 }
               ]
             },
@@ -1548,7 +1636,8 @@
                     "owner": "MonsterEOS",
                     "repo": "monstereos",
                     "stars": 183
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:09:38.270Z"
                 }
               ]
             }
@@ -1572,7 +1661,8 @@
                 "owner": "IQIndustries",
                 "repo": "Everipedia",
                 "stars": 150
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             },
             {
               "node_type": "item",
@@ -1587,7 +1677,8 @@
                 "owner": "grigio",
                 "repo": "eosfilestore",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-29T02:09:38.270Z"
             }
           ],
           "description": null,
@@ -1599,7 +1690,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:34:05.593Z",
+    "last_updated": "2026-08-29T02:09:38.270Z",
     "original_repository_info": {
       "archived": false,
       "id": 139194284,
