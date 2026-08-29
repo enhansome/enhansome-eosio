@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C++ implementation of the Antelope protocol with Savanna consensus",
+            "homepage": null,
             "id": 782281810,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-12T16:35:50Z",
+            "open_issues": 146,
             "owner": "AntelopeIO",
             "repo": "spring",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:09:38.270Z"
         }
@@ -34,12 +39,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A guide to EOS smart contract security best practices",
+                "homepage": "https://slowmist.com",
                 "id": 149097369,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-31T09:47:19Z",
+                "open_issues": 0,
                 "owner": "slowmist",
                 "repo": "eos-smart-contract-security-best-practices",
-                "stars": 392
+                "stars": 392,
+                "topics": [
+                  "blockchain",
+                  "eosio",
+                  "security",
+                  "smart-contracts"
+                ]
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             }
@@ -65,12 +80,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cross-platform EOSIO command-line swiss-army-knife (EOS, BOS, Telos, Worbli, etc.)",
+                    "homepage": "https://eosc.app",
                     "id": 135083726,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2025-05-15T15:29:49Z",
+                    "open_issues": 51,
                     "owner": "eoscanada",
                     "repo": "eosc",
-                    "stars": 133
+                    "stars": 133,
+                    "topics": [
+                      "blockchain",
+                      "eos",
+                      "eosio",
+                      "golang"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 },
@@ -86,12 +111,19 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "description": "An open source smart contract platform ",
+                        "homepage": "https://developers.eos.io/manuals/eos",
                         "id": 87335980,
                         "language": "C++",
+                        "license": "MIT",
                         "last_commit": "2022-07-27T00:17:50Z",
+                        "open_issues": 384,
                         "owner": "EOSIO",
                         "repo": "eos",
-                        "stars": 11172
+                        "stars": 11172,
+                        "topics": [
+                          "eosio"
+                        ]
                       },
                       "first_seen": "2026-08-29T02:09:38.270Z"
                     }
@@ -109,12 +141,23 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Antelope Desktop Wallet and Authenticator",
+                        "homepage": "https://greymass.com/anchor/",
                         "id": 134008831,
                         "language": "JavaScript",
+                        "license": "MIT",
                         "last_commit": "2026-08-19T20:45:50Z",
+                        "open_issues": 242,
                         "owner": "greymass",
                         "repo": "anchor",
-                        "stars": 588
+                        "stars": 588,
+                        "topics": [
+                          "authenticator",
+                          "eos",
+                          "eosio",
+                          "eosio-signing-request",
+                          "wallet"
+                        ]
                       },
                       "first_seen": "2026-08-29T02:09:38.270Z"
                     }
@@ -132,12 +175,26 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Connect to applications on EOS, Ethereum, and Tron. Exchange tokens with ease. Manage your assets safely. All in a simple to use interface.",
+                        "homepage": "https://get-scatter.com/",
                         "id": 139770377,
                         "language": "JavaScript",
+                        "license": "GPL-3.0",
                         "last_commit": "2024-07-22T06:28:09Z",
+                        "open_issues": 149,
                         "owner": "GetScatter",
                         "repo": "ScatterDesktop",
-                        "stars": 493
+                        "stars": 493,
+                        "topics": [
+                          "blockchain",
+                          "blockchain-technology",
+                          "blockchain-wallet",
+                          "crypto",
+                          "cryptocurrency",
+                          "eos",
+                          "ethereum",
+                          "tron"
+                        ]
                       },
                       "first_seen": "2026-08-29T02:09:38.270Z"
                     }
@@ -155,12 +212,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "description": "Best in class community driven toolkit for the EOS network.",
+                        "homepage": "https://eostoolkit.io",
                         "id": 138360376,
                         "language": "JavaScript",
+                        "license": "MIT",
                         "last_commit": "2022-12-14T18:14:54Z",
+                        "open_issues": 28,
                         "owner": "eostoolkit",
                         "repo": "eostoolkit",
-                        "stars": 87
+                        "stars": 87,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T02:09:38.270Z"
                     }
@@ -178,12 +240,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "EOSIO Blockchain Interface & Wallet",
+                        "homepage": "https://eosrio.io/simpleos/",
                         "id": 137024633,
                         "language": "TypeScript",
+                        "license": "NOASSERTION",
                         "last_commit": "2026-08-10T16:58:30Z",
+                        "open_issues": 52,
                         "owner": "eosrio",
                         "repo": "simpleos",
-                        "stars": 158
+                        "stars": 158,
+                        "topics": [
+                          "angular",
+                          "blockchain",
+                          "electron",
+                          "eos",
+                          "eos-ecosystem",
+                          "wallet"
+                        ]
                       },
                       "first_seen": "2026-08-29T02:09:38.270Z"
                     }
@@ -203,12 +277,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Android client for EOS.IO",
+                    "homepage": "https://github.com/swapnibble/EosCommander",
                     "id": 111535977,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2020-05-21T07:18:09Z",
+                    "open_issues": 2,
                     "owner": "swapnibble",
                     "repo": "EosCommander",
-                    "stars": 213
+                    "stars": 213,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 },
@@ -219,12 +298,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An open-source EOS wallet project",
+                    "homepage": "https://pocketeos.com/",
                     "id": 135434843,
                     "language": "Java",
+                    "license": "LGPL-3.0",
                     "last_commit": "2018-09-14T08:46:41Z",
+                    "open_issues": 1,
                     "owner": "OracleChain",
                     "repo": "PocketEOS-Android",
-                    "stars": 156
+                    "stars": 156,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 },
@@ -235,12 +319,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An open-source EOS wallet project",
+                    "homepage": "https://pocketeos.com/",
                     "id": 135434612,
                     "language": "Objective-C",
+                    "license": "LGPL-3.0",
                     "last_commit": "2018-11-22T08:27:13Z",
+                    "open_issues": 5,
                     "owner": "OracleChain",
                     "repo": "PocketEOS-IOS",
-                    "stars": 111
+                    "stars": 111,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 }
@@ -268,12 +357,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🗄EOS Tracker: Real time block explorer for EOS Blockchain",
+                    "homepage": "https://eostracker.io",
                     "id": 120499419,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2020-01-21T13:04:27Z",
+                    "open_issues": 17,
                     "owner": "EOSEssentials2",
                     "repo": "EOSTracker2",
-                    "stars": 164
+                    "stars": 164,
+                    "topics": [
+                      "blockchain",
+                      "crypto",
+                      "eos",
+                      "eosio",
+                      "tracker"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 }
@@ -299,12 +399,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "eosio-web-ide",
+                "homepage": null,
                 "id": 205857973,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-07-11T01:18:40Z",
+                "open_issues": 31,
                 "owner": "EOSIO",
                 "repo": "eosio-web-ide",
-                "stars": 160
+                "stars": 160,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -315,12 +420,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Helm charts for EOSIO.",
+                "homepage": null,
                 "id": 339441414,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2021-03-29T20:07:24Z",
+                "open_issues": 0,
                 "owner": "EOSIO",
                 "repo": "eosio.helm",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             }
@@ -340,12 +450,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "An open source smart contract platform ",
+                    "homepage": "https://developers.eos.io/manuals/eos",
                     "id": 87335980,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2022-07-27T00:17:50Z",
+                    "open_issues": 384,
                     "owner": "EOSIO",
                     "repo": "eos",
-                    "stars": 11172
+                    "stars": 11172,
+                    "topics": [
+                      "eosio"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 },
@@ -356,12 +473,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Low-Latency, High Performance and Extensible WebAssembly Backend Library",
+                    "homepage": null,
                     "id": 141182381,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-07-13T15:56:01Z",
+                    "open_issues": 30,
                     "owner": "EOSIO",
                     "repo": "eos-vm",
-                    "stars": 200
+                    "stars": 200,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 }
@@ -379,12 +501,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "General purpose library for the EOSIO blockchain. ",
+                    "homepage": "http://eosio.github.io/eosjs",
                     "id": 99262393,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2022-08-01T01:38:25Z",
+                    "open_issues": 53,
                     "owner": "EOSIO",
                     "repo": "eosjs",
-                    "stars": 1423
+                    "stars": 1423,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 },
@@ -395,12 +522,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "EOS.IO Go API library",
+                    "homepage": null,
                     "id": 119925832,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2024-10-29T14:45:40Z",
+                    "open_issues": 22,
                     "owner": "eoscanada",
                     "repo": "eos-go",
-                    "stars": 553
+                    "stars": 553,
+                    "topics": [
+                      "api",
+                      "blockchain",
+                      "eos",
+                      "eosio",
+                      "golang"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 },
@@ -411,12 +549,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "http://www.eos42.io",
                     "id": 130099638,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2020-10-13T11:26:48Z",
+                    "open_issues": 12,
                     "owner": "EOSEssentials2",
                     "repo": "eos-java-rpc-wrapper",
-                    "stars": 163
+                    "stars": 163,
+                    "topics": [
+                      "api-wrapper",
+                      "eos",
+                      "java",
+                      "smart-contracts"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 },
@@ -427,12 +575,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "EOSIO SDK for Java - API for integrating with EOSIO-based blockchains",
+                    "homepage": "https://eosio.github.io/eosio-java/",
                     "id": 173167316,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2022-02-21T11:16:12Z",
+                    "open_issues": 14,
                     "owner": "EOSIO",
                     "repo": "eosio-java",
-                    "stars": 126
+                    "stars": 126,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 },
@@ -443,12 +596,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "SwiftyEOS is an open-source framework for interacting with EOS, written in Swift. Can be used on iOS and macOS.",
+                    "homepage": null,
                     "id": 130690639,
                     "language": "C",
+                    "license": "Apache-2.0",
                     "last_commit": "2019-04-18T08:35:09Z",
+                    "open_issues": 15,
                     "owner": "ProChain",
                     "repo": "SwiftyEOS",
-                    "stars": 91
+                    "stars": 91,
+                    "topics": [
+                      "blockchain",
+                      "cryptocurrency",
+                      "eos",
+                      "eos-ios",
+                      "eos-objective-c",
+                      "eos-sdk",
+                      "eos-swift",
+                      "swift"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 },
@@ -459,12 +626,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "EOSIO SDK for Swift - API for integrating with EOSIO-based blockchains",
+                    "homepage": "https://eosio.github.io/eosio-swift",
                     "id": 167249899,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2021-12-23T11:12:33Z",
+                    "open_issues": 14,
                     "owner": "EOSIO",
                     "repo": "eosio-swift",
-                    "stars": 63
+                    "stars": 63,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 },
@@ -475,12 +647,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Core types, client interfaces, and other tools for working with Antelope-based blockchains.",
+                    "homepage": null,
                     "id": 270297983,
                     "language": "TypeScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-22T01:05:33Z",
+                    "open_issues": 20,
                     "owner": "wharfkit",
                     "repo": "antelope",
-                    "stars": 49
+                    "stars": 49,
+                    "topics": [
+                      "antelope",
+                      "antelopelo",
+                      "blockchain",
+                      "eosio"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 },
@@ -491,12 +673,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Native implementation of client to eos blockchain communication.",
+                    "homepage": null,
                     "id": 167024755,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2021-12-01T19:01:59Z",
+                    "open_issues": 4,
                     "owner": "GoEvaCom",
                     "repo": "react-native-eos",
-                    "stars": 41
+                    "stars": 41,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 },
@@ -507,12 +694,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "An EOS wallet developed in Kotlin using the eos-jvm SDK and the model view intent (MVI) design pattern. This wallet serves as a blueprint for how other developers might want to utilise eos-jvm to develop native Android apps that consume the EOS blockchain.",
+                    "homepage": "http://www.memtrip.com",
                     "id": 151213930,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2019-10-01T08:50:25Z",
+                    "open_issues": 1,
                     "owner": "memtrip",
                     "repo": "eosreach-android",
-                    "stars": 37
+                    "stars": 37,
+                    "topics": [
+                      "android",
+                      "eos",
+                      "eosio",
+                      "kotlin",
+                      "mvi",
+                      "mvi-architecture"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 },
@@ -523,12 +722,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "EOSRPC API Wrapper for Elixir ",
+                    "homepage": null,
                     "id": 130289379,
                     "language": "Elixir",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-04-12T23:06:45Z",
+                    "open_issues": 0,
                     "owner": "cambiatus",
                     "repo": "eosrpc-elixir-wrapper",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": [
+                      "elixir",
+                      "eos",
+                      "eos-sdk",
+                      "eosio",
+                      "eosrpc-apis"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 },
@@ -539,12 +749,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Library for swiftly working with EOSIO blockchains on Linux, macOS and iOS with ESR support",
+                    "homepage": null,
                     "id": 215881128,
                     "language": "Swift",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-08T16:07:01Z",
+                    "open_issues": 2,
                     "owner": "greymass",
                     "repo": "swift-eosio",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": [
+                      "eos-resources",
+                      "eos-swift",
+                      "eosio"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 },
@@ -555,12 +774,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A .net core implementation of the client for EOS blockchain",
+                    "homepage": null,
                     "id": 141000503,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2019-03-17T19:29:09Z",
+                    "open_issues": 2,
                     "owner": "SNIKO",
                     "repo": "eosnet",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": [
+                      "blockchain",
+                      "eos",
+                      "eosio",
+                      "netcore",
+                      "netstandard"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 },
@@ -576,12 +806,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Transit Wallet Access Layer for EOS blockchain networks",
+                        "homepage": null,
                         "id": 164526895,
                         "language": "TypeScript",
+                        "license": "MIT",
                         "last_commit": "2023-01-07T21:52:20Z",
+                        "open_issues": 169,
                         "owner": "eosnewyork",
                         "repo": "eos-transit",
-                        "stars": 86
+                        "stars": 86,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T02:09:38.270Z"
                     }
@@ -601,12 +836,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A library for allowing apps to easily use different auth providers.",
+                    "homepage": null,
                     "id": 175091940,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-04-30T15:36:05Z",
+                    "open_issues": 17,
                     "owner": "EOSIO",
                     "repo": "universal-authenticator-library",
-                    "stars": 128
+                    "stars": 128,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 },
@@ -617,12 +857,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "iOS reference app demonstrating inter-application transaction signing for EOSIO blockchain apps",
+                    "homepage": null,
                     "id": 177205751,
                     "language": "Swift",
+                    "license": "MIT",
                     "last_commit": "2022-09-21T17:42:16Z",
+                    "open_issues": 2,
                     "owner": "EOSIO",
                     "repo": "eosio-reference-ios-authenticator-app",
-                    "stars": 65
+                    "stars": 65,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 },
@@ -633,12 +878,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Persistent, fast and secure signature provider for EOSIO chains built on top of EOSIO Signing Requests (EEP-7)",
+                    "homepage": null,
                     "id": 224947435,
                     "language": "TypeScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-04-10T05:47:04Z",
+                    "open_issues": 8,
                     "owner": "greymass",
                     "repo": "anchor-link",
-                    "stars": 53
+                    "stars": 53,
+                    "topics": [
+                      "anchor-link",
+                      "eos",
+                      "eosio",
+                      "eosio-signing-request"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 },
@@ -649,12 +904,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Example web app demonstrating EOSIO signing via WebAuthn",
+                    "homepage": null,
                     "id": 183703361,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-07-12T00:13:58Z",
+                    "open_issues": 16,
                     "owner": "EOSIO",
                     "repo": "eosio-webauthn-example-app",
-                    "stars": 38
+                    "stars": 38,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 },
@@ -665,12 +925,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Library to assist in creating and digesting Signing Requests (ESR)",
+                    "homepage": "https://github.com/eosio-eps/EEPs/blob/master/EEPS/eep-7.md",
                     "id": 163697905,
                     "language": "TypeScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-06-15T16:56:07Z",
+                    "open_issues": 7,
                     "owner": "wharfkit",
                     "repo": "signing-request",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 },
@@ -681,12 +946,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Chrome extension reference app demonstrating how users could sign transactions using various EOSIO Labs tools",
+                    "homepage": null,
                     "id": 175826051,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-11-28T03:57:54Z",
+                    "open_issues": 15,
                     "owner": "EOSIO",
                     "repo": "eosio-reference-chrome-extension-authenticator-app",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 },
@@ -697,12 +967,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Identity and session through ESR using EOSIO/universal-authenticator-library",
+                    "homepage": null,
                     "id": 239842336,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-01-08T17:55:23Z",
+                    "open_issues": 10,
                     "owner": "greymass",
                     "repo": "ual-anchor",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 },
@@ -713,12 +988,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "UAL authenticator for WAX Cloud Wallet",
+                    "homepage": null,
                     "id": 233245940,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-07-11T03:23:25Z",
+                    "open_issues": 5,
                     "owner": "eosdac",
                     "repo": "ual-wax",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 },
@@ -729,12 +1009,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "authenticator meant to be used with Scatter and Universal Authenticator Library",
+                    "homepage": null,
                     "id": 175252182,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-07-18T20:38:09Z",
+                    "open_issues": 23,
                     "owner": "EOSIO",
                     "repo": "ual-scatter",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 },
@@ -745,12 +1030,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Java wrapper for the EOSIO Signing Request protocol",
+                    "homepage": null,
                     "id": 259091262,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2021-04-27T01:28:09Z",
+                    "open_issues": 1,
                     "owner": "greymass",
                     "repo": "eosio-signing-request-java",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 }
@@ -768,12 +1058,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Scalable Full History API Solution for Antelope (former EOSIO) based blockchains",
+                    "homepage": "https://hyperion.docs.eosrio.io",
                     "id": 170685567,
                     "language": "TypeScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-07T08:42:29Z",
+                    "open_issues": 2,
                     "owner": "eosrio",
                     "repo": "hyperion-history-api",
-                    "stars": 136
+                    "stars": 136,
+                    "topics": [
+                      "antelope",
+                      "api",
+                      "big-data",
+                      "blockchain",
+                      "elasticsearch",
+                      "eos",
+                      "eosio",
+                      "fio",
+                      "history",
+                      "history-api",
+                      "indexing",
+                      "monitoring",
+                      "observability",
+                      "telos",
+                      "ultra",
+                      "wax"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 },
@@ -784,12 +1096,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "EOSIO History Tools",
+                    "homepage": "https://eosio.github.io/history-tools/",
                     "id": 159573050,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2022-07-20T14:06:17Z",
+                    "open_issues": 46,
                     "owner": "EOSIO",
                     "repo": "history-tools",
-                    "stars": 65
+                    "stars": 65,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 },
@@ -800,12 +1117,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Light API for EOSIO networks",
+                    "homepage": null,
                     "id": 151824543,
                     "language": "Perl",
+                    "license": null,
                     "last_commit": "2025-10-31T22:34:36Z",
+                    "open_issues": 10,
                     "owner": "cc32d9",
                     "repo": "eosio_light_api",
-                    "stars": 58
+                    "stars": 58,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 }
@@ -823,12 +1145,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Smart contracts that provide some of the basic functions of the EOSIO blockchain",
+                    "homepage": "https://eosio.github.io/eosio.contracts/latest",
                     "id": 137895625,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2022-07-08T04:49:02Z",
+                    "open_issues": 30,
                     "owner": "EOSIO",
                     "repo": "eosio.contracts",
-                    "stars": 321
+                    "stars": 321,
+                    "topics": [
+                      "eosio",
+                      "smart-contracts"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 },
@@ -839,12 +1169,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python-based EOS smart-contract development & testing framework",
+                    "homepage": "http://eosfactory.io/",
                     "id": 113743640,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-03-28T01:59:20Z",
+                    "open_issues": 12,
                     "owner": "tokenika",
                     "repo": "eosfactory",
-                    "stars": 234
+                    "stars": 234,
+                    "topics": [
+                      "eos",
+                      "python",
+                      "smart-contracts",
+                      "testnet",
+                      "unit-testing"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 },
@@ -855,12 +1196,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Complete EOSIO framework for development, testing, and deployment in JavaScript",
+                    "homepage": "https://docs.eoslime.limechain.tech/",
                     "id": 166995348,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-01-27T04:33:54Z",
+                    "open_issues": 8,
                     "owner": "LimeChain",
                     "repo": "eoslime",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": [
+                      "eosio",
+                      "eoslime"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 },
@@ -871,12 +1220,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "JavaScript & npm framework for EOSIO dApps development, building, deployment and testing using eosjs and the EOSIO protocol",
+                    "homepage": null,
                     "id": 162359276,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2019-10-08T15:32:18Z",
+                    "open_issues": 6,
                     "owner": "infinitex-tech",
                     "repo": "infeos",
-                    "stars": 30
+                    "stars": 30,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 },
@@ -887,12 +1241,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Execution Environments Emulator",
+                    "homepage": null,
                     "id": 386309592,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2022-06-06T16:52:53Z",
+                    "open_issues": 1,
                     "owner": "haderech",
                     "repo": "vert",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 }
@@ -910,12 +1269,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "💫 Deterministic event-sourced state and side effect handling for blockchain applications",
+                    "homepage": null,
                     "id": 138819453,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-07-18T20:27:06Z",
+                    "open_issues": 29,
                     "owner": "EOSIO",
                     "repo": "demux-js",
-                    "stars": 298
+                    "stars": 298,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 },
@@ -926,12 +1290,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 151975838,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2023-10-26T14:16:04Z",
+                    "open_issues": 10,
                     "owner": "eostitan",
                     "repo": "delphioracle",
-                    "stars": 40
+                    "stars": 40,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 }
@@ -954,12 +1323,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "EOSIO.CDT (Contract Development Toolkit) is a suite of tools used to build EOSIO contracts",
+                "homepage": "http://eosio.github.io/eosio.cdt",
                 "id": 137496501,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2022-06-23T18:18:58Z",
+                "open_issues": 86,
                 "owner": "EOSIO",
                 "repo": "eosio.cdt",
-                "stars": 508
+                "stars": 508,
+                "topics": [
+                  "eosio",
+                  "wasm"
+                ]
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -970,12 +1347,31 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Security Analysis tool for WebAssembly module (wasm) and Blockchain Smart Contracts (BTC/ETH/NEO/EOS)",
+                "homepage": "https://fuzzinglabs.com/",
                 "id": 137232093,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-24T18:39:20Z",
+                "open_issues": 12,
                 "owner": "FuzzingLabs",
                 "repo": "octopus",
-                "stars": 494
+                "stars": 494,
+                "topics": [
+                  "blockchain",
+                  "call-flow-analysis",
+                  "control-flow-analysis",
+                  "disassembler",
+                  "eos",
+                  "ethereum",
+                  "evm-bytecode",
+                  "neo",
+                  "security",
+                  "security-analysis",
+                  "smart-contracts",
+                  "wasm",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -986,12 +1382,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Elliptic curve cryptography functions: Private Key, Public Key, Signature, AES, Encryption, Decryption",
+                "homepage": null,
                 "id": 99262462,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-07-11T00:59:18Z",
+                "open_issues": 46,
                 "owner": "EOSIO",
                 "repo": "eosjs-ecc",
-                "stars": 288
+                "stars": 288,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -1002,12 +1403,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EOSIO Ethereum Virtual Machine (EVM) ",
+                "homepage": null,
                 "id": 241253661,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-10-29T10:50:23Z",
+                "open_issues": 5,
                 "owner": "XPRNetwork",
                 "repo": "eosio.evm",
-                "stars": 93
+                "stars": 93,
+                "topics": [
+                  "cplusplus",
+                  "eosio",
+                  "ethereum",
+                  "virtual-machine",
+                  "wasm"
+                ]
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -1018,12 +1430,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Airdropping tool for the EOS blockchain.",
+                "homepage": null,
                 "id": 137683545,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-07-03T18:41:05Z",
+                "open_issues": 0,
                 "owner": "EOSEssentials2",
                 "repo": "EOSDrops",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -1034,12 +1451,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Renderer for the Ricardian Contract specification",
+                "homepage": null,
                 "id": 175299310,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-07-11T00:09:00Z",
+                "open_issues": 23,
                 "owner": "EOSIO",
                 "repo": "ricardian-template-toolkit",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -1050,12 +1472,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "WASM contract toolchain",
+                "homepage": null,
                 "id": 328572760,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-10-05T05:37:49Z",
+                "open_issues": 5,
                 "owner": "haderech",
                 "repo": "blanc",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -1066,12 +1493,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "eos name in string to uint64 and vice versa",
+                "homepage": "https://manh-vv.github.io/eosjs-name",
                 "id": 211686894,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-02-06T19:50:57Z",
+                "open_issues": 7,
                 "owner": "manh-vv",
                 "repo": "eosjs-name",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "eosio",
+                  "name",
+                  "symbol"
+                ]
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -1082,12 +1518,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Library to assist in Antelope blockchain resource calculations",
+                "homepage": null,
                 "id": 343523118,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-04T17:36:06Z",
+                "open_issues": 4,
                 "owner": "wharfkit",
                 "repo": "resources",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -1098,12 +1539,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ETL scripts for EOS.",
+                "homepage": null,
                 "id": 156980663,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-05-22T21:37:21Z",
+                "open_issues": 2,
                 "owner": "blockchain-etl",
                 "repo": "eos-etl",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "apache-beam",
+                  "blockchain-analytics",
+                  "crypto",
+                  "cryptocurrency",
+                  "data-analytics",
+                  "data-engineering",
+                  "eos",
+                  "eosio",
+                  "etl",
+                  "gcp",
+                  "google-bigquery",
+                  "google-cloud",
+                  "google-cloud-platform",
+                  "google-dataflow",
+                  "google-pubsub",
+                  "on-chain-analysis",
+                  "web3"
+                ]
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -1114,12 +1578,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CLI for generating type-safe clients for EOS-compatible contracts.",
+                "homepage": null,
                 "id": 471967421,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2022-09-17T09:26:19Z",
+                "open_issues": 5,
                 "owner": "maxifom",
                 "repo": "eos-abigen",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "blockchain",
+                  "code-generation",
+                  "cryptocurrency",
+                  "eos",
+                  "eosio",
+                  "generator",
+                  "wax"
+                ]
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -1130,12 +1607,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 342757130,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2023-05-24T16:49:57Z",
+                "open_issues": 2,
                 "owner": "greymass",
                 "repo": "abi2core",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             }
@@ -1153,12 +1635,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Smart contracts that provide some of the basic functions of the EOSIO blockchain",
+                "homepage": "https://eosio.github.io/eosio.contracts/latest",
                 "id": 137895625,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2022-07-08T04:49:02Z",
+                "open_issues": 30,
                 "owner": "EOSIO",
                 "repo": "eosio.contracts",
-                "stars": 321
+                "stars": 321,
+                "topics": [
+                  "eosio",
+                  "smart-contracts"
+                ]
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -1169,12 +1659,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementing ping between EOS / React.js",
+                "homepage": null,
                 "id": 130950930,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-04-26T20:10:50Z",
+                "open_issues": 6,
                 "owner": "eosasia",
                 "repo": "ping-eos",
-                "stars": 82
+                "stars": 82,
+                "topics": [
+                  "eos",
+                  "eos-contracts",
+                  "eosio",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -1185,12 +1685,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of integration demos using eosjs and Scatter",
+                "homepage": null,
                 "id": 121081137,
                 "language": "Vue",
+                "license": null,
                 "last_commit": "2022-12-06T16:44:36Z",
+                "open_issues": 15,
                 "owner": "EOSEssentials2",
                 "repo": "Scatter-Demos",
-                "stars": 79
+                "stars": 79,
+                "topics": [
+                  "blockchain",
+                  "decentralized-applications",
+                  "eos",
+                  "eosio"
+                ]
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -1201,12 +1711,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EOS Resource Planner",
+                "homepage": null,
                 "id": 126872168,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-05-07T11:48:47Z",
+                "open_issues": 4,
                 "owner": "eosnewyork",
                 "repo": "erp",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "eos"
+                ]
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -1217,12 +1734,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EOS Token with burning and signup (for making the token RAM cheap)",
+                "homepage": null,
                 "id": 139625654,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2019-06-29T06:31:14Z",
+                "open_issues": 4,
                 "owner": "GenerEOSAus",
                 "repo": "poorman.token",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -1233,12 +1755,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Demo saving text and images to ipfs and storing the hash on the EOS blockchain",
+                "homepage": null,
                 "id": 136525589,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-06-20T19:52:51Z",
+                "open_issues": 0,
                 "owner": "wpuricz",
                 "repo": "ipfs-eos-demo",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "blockchain",
+                  "dapp",
+                  "eos",
+                  "eosjs",
+                  "ipfs-api",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -1249,12 +1783,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Application demonstrating integration with EOSIO-based blockchains using EOSIO SDK for Java",
+                "homepage": null,
                 "id": 183282269,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2022-02-21T11:14:56Z",
+                "open_issues": 4,
                 "owner": "EOSIO",
                 "repo": "eosio-java-android-example-app",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -1265,12 +1804,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 346781814,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2021-03-12T17:10:33Z",
+                "open_issues": 0,
                 "owner": "bitfinexcom",
                 "repo": "eosfinex-custody-contract",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -1281,12 +1825,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example for handling multi-chain/account/device sessions using anchor-link",
+                "homepage": "https://greymass.github.io/anchor-link-demo-multipass/",
                 "id": 260353553,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-03-04T15:30:55Z",
+                "open_issues": 21,
                 "owner": "greymass",
                 "repo": "anchor-link-demo-multipass",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -1297,12 +1846,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EOSIO smart contract examples, patterns and use of eosjs SDK and unit tests such as eoslime",
+                "homepage": null,
                 "id": 225670521,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-12-30T19:53:08Z",
+                "open_issues": 4,
                 "owner": "theblockstalk",
                 "repo": "eosio-contracts",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "blockchain",
+                  "eos",
+                  "eosio",
+                  "eosjs",
+                  "smart-contracts",
+                  "telos"
+                ]
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -1313,12 +1874,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Demos to showcase various ways to use the eosio-signing-request library",
+                "homepage": "https://github.com/greymass/eosio-signing-request",
                 "id": 232627096,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-09-12T00:03:46Z",
+                "open_issues": 4,
                 "owner": "greymass",
                 "repo": "eosio-signing-request-demo",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -1329,12 +1895,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UAL + Anchor demo",
+                "homepage": "https://greymass.github.io/ual-anchor-demo/",
                 "id": 239845867,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-01-05T07:02:06Z",
+                "open_issues": 22,
                 "owner": "greymass",
                 "repo": "ual-anchor-demo",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -1345,12 +1916,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Demo project for Anchor Link",
+                "homepage": "https://greymass.github.io/anchor-link-demo/",
                 "id": 212151831,
                 "language": "Vue",
+                "license": null,
                 "last_commit": "2022-12-11T13:41:56Z",
+                "open_issues": 25,
                 "owner": "greymass",
                 "repo": "anchor-link-demo",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             }
@@ -1368,12 +1944,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RPC Checkpoint for EOS nodes",
+                "homepage": null,
                 "id": 132928899,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2022-09-21T17:26:59Z",
+                "open_issues": 2,
                 "owner": "EOSIO",
                 "repo": "patroneos",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -1384,12 +1965,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EOS Block Producer Failover Scripts",
+                "homepage": null,
                 "id": 137489291,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2019-01-22T14:09:40Z",
+                "open_issues": 2,
                 "owner": "pete001",
                 "repo": "eos-bp-failover",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "blockchain",
+                  "cryptocurrency",
+                  "eos"
+                ]
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -1400,12 +1990,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dashboard tool for monitoring internal Block Producer infrastructure.",
+                "homepage": null,
                 "id": 135387547,
                 "language": "Elm",
+                "license": "MIT",
                 "last_commit": "2018-08-13T02:01:10Z",
+                "open_issues": 14,
                 "owner": "cypherglassdotcom",
                 "repo": "windshield",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -1416,12 +2011,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A solution for the rapid configuration & deployment of AntelopeIO infrastructure.",
+                "homepage": null,
                 "id": 288000214,
                 "language": "Jinja",
+                "license": "MIT",
                 "last_commit": "2025-11-08T05:42:05Z",
+                "open_issues": 0,
                 "owner": "eosdetroit",
                 "repo": "nodesuite",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -1432,12 +2032,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 402256061,
                 "language": "Smarty",
+                "license": "Apache-2.0",
                 "last_commit": "2021-09-13T23:08:03Z",
+                "open_issues": 0,
                 "owner": "GoogleCloudPlatform",
                 "repo": "eos-block-producer",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -1448,12 +2053,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of playbooks to make managing EOS.IO nodes easier.",
+                "homepage": null,
                 "id": 133049970,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2018-06-02T00:58:49Z",
+                "open_issues": 0,
                 "owner": "eosdetroit",
                 "repo": "bp-playbook",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -1464,12 +2074,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adjusting supply of a token and connector balance of bancor during final phase of boot.",
+                "homepage": null,
                 "id": 136478804,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2022-03-13T20:18:32Z",
+                "open_issues": 0,
                 "owner": "eoseoul",
                 "repo": "eos-ramcost",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             }
@@ -1487,12 +2102,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://eden-dev.vercel.app",
                 "id": 353743458,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-09-19T14:36:11Z",
+                "open_issues": 84,
                 "owner": "gofractally",
                 "repo": "Eden",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -1503,12 +2123,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A client side tool for EOS performance testing.",
+                "homepage": null,
                 "id": 133009795,
                 "language": "C++",
+                "license": "LGPL-3.0",
                 "last_commit": "2018-09-27T06:45:26Z",
+                "open_issues": 0,
                 "owner": "OracleChain",
                 "repo": "EOSBenchTool",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -1519,12 +2144,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Command auto-completion for EOS cleos.",
+                "homepage": null,
                 "id": 140368890,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2019-12-15T13:20:01Z",
+                "open_issues": 0,
                 "owner": "Hexlant",
                 "repo": "cleos-auto-completion",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -1535,12 +2165,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "释放掉你发行的EOS空气代币所占用的内存吧！",
+                "homepage": null,
                 "id": 140130188,
                 "language": "WebAssembly",
+                "license": "MIT",
                 "last_commit": "2018-07-08T06:34:59Z",
+                "open_issues": 0,
                 "owner": "breakstring",
                 "repo": "savemyeosram",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             }
@@ -1562,12 +2197,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of cross-chain EOSIO projects",
+            "homepage": null,
             "id": 199703976,
             "language": null,
+            "license": null,
             "last_commit": "2020-05-02T21:37:51Z",
+            "open_issues": 0,
             "owner": "eosio-ecosystem",
             "repo": "eosio-ecosystem-resources",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:09:38.270Z"
         },
@@ -1578,12 +2218,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of public EOSIO blockchains",
+            "homepage": null,
             "id": 199724517,
             "language": null,
+            "license": null,
             "last_commit": "2020-10-08T07:34:14Z",
+            "open_issues": 0,
             "owner": "eosio-ecosystem",
             "repo": "chains",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:09:38.270Z"
         }
@@ -1607,12 +2252,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 124302378,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2018-09-05T10:44:26Z",
+                    "open_issues": 0,
                     "owner": "MrToph",
                     "repo": "KingOfEos",
-                    "stars": 33
+                    "stars": 33,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 }
@@ -1630,12 +2280,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Tamagotchi and Battle Game for EOS Blockchain :)",
+                    "homepage": "https://monstereos.io",
                     "id": 134219165,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2018-11-26T14:32:43Z",
+                    "open_issues": 44,
                     "owner": "MonsterEOS",
                     "repo": "monstereos",
-                    "stars": 183
+                    "stars": 183,
+                    "topics": [
+                      "blockchain",
+                      "eos",
+                      "eos-blockchain",
+                      "eosio",
+                      "pet",
+                      "tamagotchi-game"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
                 }
@@ -1655,12 +2317,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Archived Everipedia Network protocol repository.",
+                "homepage": "https://iq.wiki/wikis/iq-token",
                 "id": 125951134,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2023-02-28T16:37:38Z",
+                "open_issues": 0,
                 "owner": "IQIndustries",
                 "repo": "Everipedia",
-                "stars": 150
+                "stars": 150,
+                "topics": [
+                  "archived",
+                  "blockchain",
+                  "eosio",
+                  "everipedia",
+                  "protocol"
+                ]
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             },
@@ -1671,12 +2344,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📜🔗 Immutable, censorship resistant, cheap, file storage on EOS blockchain",
+                "homepage": null,
                 "id": 139638034,
                 "language": "WebAssembly",
+                "license": "MIT",
                 "last_commit": "2023-02-28T00:24:29Z",
+                "open_issues": 8,
                 "owner": "grigio",
                 "repo": "eosfilestore",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "blockchain",
+                  "eos",
+                  "file-upload"
+                ]
               },
               "first_seen": "2026-08-29T02:09:38.270Z"
             }
@@ -1690,15 +2372,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:09:38.270Z",
+    "last_updated": "2026-08-29T05:03:05.744Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":sunglasses: A curated list of awesome EOSIO resources for users and developers.",
+      "homepage": "https://eosnetwork.com",
       "id": 139194284,
       "language": "Shell",
+      "license": "CC0-1.0",
       "last_commit": "2026-03-25T22:41:44Z",
+      "open_issues": 2,
       "owner": "DanailMinchev",
       "repo": "awesome-eosio",
-      "stars": 87
+      "stars": 87,
+      "topics": [
+        "awesome",
+        "awesome-eos",
+        "awesome-list",
+        "eos",
+        "eosio",
+        "eosio-blockchain",
+        "eosio-development",
+        "eosio-resources"
+      ]
     },
     "original_repository_sha": "2daa91a1752f78a6addc63c3eccbff997cec96da",
     "enhanced_repository": "enhansome/enhansome-eosio",
