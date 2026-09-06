@@ -2289,7 +2289,7 @@
                     "open_issues": 44,
                     "owner": "MonsterEOS",
                     "repo": "monstereos",
-                    "stars": 183,
+                    "stars": 184,
                     "topics": [
                       "blockchain",
                       "eos",
@@ -2372,7 +2372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T21:12:54.696Z",
+    "last_updated": "2026-09-06T21:19:02.681Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome EOSIO resources for users and developers.",
