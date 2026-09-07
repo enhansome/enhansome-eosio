@@ -120,7 +120,7 @@
                         "open_issues": 384,
                         "owner": "EOSIO",
                         "repo": "eos",
-                        "stars": 11172,
+                        "stars": 11171,
                         "topics": [
                           "eosio"
                         ]
@@ -459,7 +459,7 @@
                     "open_issues": 384,
                     "owner": "EOSIO",
                     "repo": "eos",
-                    "stars": 11172,
+                    "stars": 11171,
                     "topics": [
                       "eosio"
                     ]
@@ -653,7 +653,7 @@
                     "language": "TypeScript",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-22T01:05:33Z",
-                    "open_issues": 20,
+                    "open_issues": 21,
                     "owner": "wharfkit",
                     "repo": "antelope",
                     "stars": 49,
@@ -2372,7 +2372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T21:19:02.681Z",
+    "last_updated": "2026-09-07T22:00:03.112Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome EOSIO resources for users and developers.",
