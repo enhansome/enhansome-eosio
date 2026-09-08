@@ -120,7 +120,7 @@
                         "open_issues": 384,
                         "owner": "EOSIO",
                         "repo": "eos",
-                        "stars": 11171,
+                        "stars": 11170,
                         "topics": [
                           "eosio"
                         ]
@@ -459,7 +459,7 @@
                     "open_issues": 384,
                     "owner": "EOSIO",
                     "repo": "eos",
-                    "stars": 11171,
+                    "stars": 11170,
                     "topics": [
                       "eosio"
                     ]
@@ -2289,7 +2289,7 @@
                     "open_issues": 44,
                     "owner": "MonsterEOS",
                     "repo": "monstereos",
-                    "stars": 184,
+                    "stars": 185,
                     "topics": [
                       "blockchain",
                       "eos",
@@ -2372,7 +2372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T22:00:03.112Z",
+    "last_updated": "2026-09-08T21:50:00.606Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome EOSIO resources for users and developers.",

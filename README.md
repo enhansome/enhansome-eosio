@@ -357,7 +357,7 @@ DApp resources.
   * [Introducing King of EOS](https://cmichel.io/introducing-king-of-eos) - Article.
   * [Learnings from building my first dapp on EOS blockchain](https://cmichel.io/releasing-my-first-eos-dapp) - Article.
 * [MonsterEOS](https://monstereos.io/)
-  * [MonsterEOS/monstereos](https://github.com/MonsterEOS/monstereos) ⭐ 184 | 🐛 44 | 🌐 TypeScript | 📅 2018-11-26 - Official GitHub.
+  * [MonsterEOS/monstereos](https://github.com/MonsterEOS/monstereos) ⭐ 185 | 🐛 44 | 🌐 TypeScript | 📅 2018-11-26 - Official GitHub.
 
 ### Other in DApps
 
@@ -367,4 +367,4 @@ DApp resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
