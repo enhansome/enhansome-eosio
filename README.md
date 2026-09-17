@@ -48,7 +48,7 @@
 
 Official resources.
 
-* [GitHub](https://github.com/AntelopeIO/spring) ⭐ 29 | 🐛 147 | 🌐 C++ | 📅 2025-11-12
+* [GitHub](https://github.com/AntelopeIO/spring) ⭐ 30 | 🐛 147 | 🌐 C++ | 📅 2025-11-12
 * [EOS Network Foundation](https://eosnetwork.com/)
 * [Blue Paper](https://eosnetwork.com/blog/category/eos-blue-papers/n)
 * [StackExchange for Q\&A](https://eosio.stackexchange.com/)
@@ -100,7 +100,7 @@ Various software and tools.
 * [cleos](https://developers.eos.io/eosio-cleos/docs)
   * [EOSIO/eos](https://github.com/EOSIO/eos/tree/master/programs/cleos) ⚠️ Archived - Official GitHub (part of EOSIO).
 * [Anchor Wallet](https://greymass.com/en/anchor/)
-  * [greymass/anchor](https://github.com/greymass/anchor) ⭐ 589 | 🐛 244 | 🌐 JavaScript | 📅 2026-09-12 - Official GitHub.
+  * [greymass/anchor](https://github.com/greymass/anchor) ⭐ 589 | 🐛 241 | 🌐 JavaScript | 📅 2026-09-17 - Official GitHub.
 * [Scatter](https://get-scatter.com/)
   * [GetScatter/ScatterDesktop](https://github.com/GetScatter/ScatterDesktop) ⭐ 493 | 🐛 149 | 🌐 JavaScript | 📅 2024-07-22 - Official GitHub.
 * [EOS Toolkit](https://eostoolkit.io/)
@@ -367,4 +367,4 @@ DApp resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
