@@ -141,12 +141,12 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
-                        "description": "Antelope Desktop Wallet and Authenticator",
-                        "homepage": "https://greymass.com/anchor/",
+                        "description": "Anchor Wallet desktop app for Vaulta (formerly EOS), WAX, Telos and other Antelope networks",
+                        "homepage": "https://anchorwallet.io",
                         "id": 134008831,
                         "language": "JavaScript",
                         "license": "MIT",
-                        "last_commit": "2026-09-18T03:59:13Z",
+                        "last_commit": "2026-09-23T20:15:03Z",
                         "open_issues": 240,
                         "owner": "greymass",
                         "repo": "anchor",
@@ -2372,7 +2372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T22:06:25.848Z",
+    "last_updated": "2026-09-23T22:16:21.608Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome EOSIO resources for users and developers.",
