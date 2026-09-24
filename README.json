@@ -652,8 +652,8 @@
                     "id": 270297983,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-22T01:05:33Z",
-                    "open_issues": 21,
+                    "last_commit": "2026-09-24T22:13:25Z",
+                    "open_issues": 17,
                     "owner": "wharfkit",
                     "repo": "antelope",
                     "stars": 49,
@@ -2372,7 +2372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T22:16:21.608Z",
+    "last_updated": "2026-09-24T22:22:00.373Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome EOSIO resources for users and developers.",
