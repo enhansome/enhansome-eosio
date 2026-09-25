@@ -189,7 +189,7 @@ All about development on EOSIO platform.
 * [SwiftyEOS](https://github.com/ProChain/SwiftyEOS) ⚠️ Archived - Framework for interacting with EOS, written in Swift.
 * [EOSIO/eosio-swift](https://github.com/EOSIO/eosio-swift) ⚠️ Archived - Official Swift SDK.
   * [EOSIO SDK for Swift](https://eosio.github.io/eosio-swift/) - API documentation.
-* [greymass/eosio](https://github.com/greymass/eosio-core/) ⭐ 49 | 🐛 17 | 🌐 TypeScript | 📅 2026-09-24 - Strongly typed JavaScript library.
+* [greymass/eosio](https://github.com/greymass/eosio-core/) ⚠️ Archived - Strongly typed JavaScript library.
 * [React Native EOS](https://github.com/EvaCoop/react-native-eos) ⭐ 41 | 🐛 4 | 🌐 C | 📅 2021-12-01 - Native implementation of client to eos blockchain communication.
 * [memtrip/eosreach-android](https://github.com/memtrip/eosreach-android) ⚠️ Archived - Kotlin / Android library.
 * [EOSRPC API Wrapper for Elixir](https://github.com/cambiatus/eosrpc-elixir-wrapper) ⭐ 19 | 🐛 0 | 🌐 Elixir | 📅 2021-04-12 - Elixir library.
@@ -207,7 +207,7 @@ All about development on EOSIO platform.
 * [greymass/anchor-link](https://github.com/greymass/anchor-link) ⭐ 53 | 🐛 8 | 🌐 TypeScript | 📅 2024-04-10 - Persistent, fast and secure signature provider for EOSIO chains built on top of EOSIO Signing Requests (EEP-7).
 * [EOSIO/eosio-webauthn-example-app](https://github.com/EOSIO/eosio-webauthn-example-app) ⭐ 38 | 🐛 16 | 🌐 TypeScript | 📅 2023-07-12 - Example web app demonstrating EOSIO signing via WebAuthn.
   * [EOSIO Labs™ Release: WebAuthn Example Web App for EOSIO YubiKey Support](https://eos.io/news/eosio-labs-release-webauthn-example-web-app-for-eosio-yubikey-support/) - Article.
-* [greymass/eosio-signing-request](https://github.com/greymass/eosio-signing-request) ⭐ 35 | 🐛 7 | 🌐 TypeScript | 📅 2026-06-15 - Library to assist in creating and digesting EOSIO Signing Requests (ESR).
+* [greymass/eosio-signing-request](https://github.com/greymass/eosio-signing-request) ⚠️ Archived - Library to assist in creating and digesting EOSIO Signing Requests (ESR).
 * [EOSIO/eosio-reference-chrome-extension-authenticator-app](https://github.com/EOSIO/eosio-reference-chrome-extension-authenticator-app) ⭐ 25 | 🐛 15 | 🌐 TypeScript | 📅 2023-11-28 - Chrome extension reference app demonstrating how users could sign transactions using various EOSIO Labs tools.
   * [EOSIO Labs™ Release: iOS and Chrome Extension Authenticator Reference Applications](https://eos.io/news/eosio-labs-release-ios-and-chrome-extension-authenticator-reference-applications/) - Article.
 * [greymass/ual-anchor](https://github.com/greymass/ual-anchor) ⭐ 23 | 🐛 10 | 🌐 TypeScript | 📅 2023-01-08 - Authenticator meant to be used with Anchor and Universal Authenticator Library.
@@ -251,7 +251,7 @@ All about development on EOSIO platform.
 * [EOSIO/ricardian-template-toolkit](https://github.com/EOSIO/ricardian-template-toolkit) ⭐ 45 | 🐛 23 | 🌐 TypeScript | 📅 2023-07-11 - Renderer for the Ricardian Contract specification.
 * [Blanc](https://github.com/haderech/blanc) ⚠️ Archived - A toolchain for building WebAssembly-based blockchain contracts. Currently, Blanc supports EOSIO and CosmWasm (experimental).
 * [manh-vv/eosjs-name](https://github.com/manh-vv/eosjs-name) ⭐ 10 | 🐛 7 | 🌐 JavaScript | 📅 2026-02-06 - Convert an Eosio name to uint64 and back.
-* [greymass/eosio-resources](https://github.com/greymass/eosio-resources) ⭐ 9 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-04 - Tool to assist in network resource calculations.
+* [greymass/eosio-resources](https://github.com/greymass/eosio-resources) ⚠️ Archived - Tool to assist in network resource calculations.
 * [blockchain-etl/eos-etl](https://github.com/blockchain-etl/eos-etl) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2023-05-22 - Connector for Google's BigQuery Public Datasets.
 * [maxifom/eos-abigen](https://github.com/maxifom/eos-abigen) ⭐ 3 | 🐛 5 | 🌐 Go | 📅 2022-09-17 - Typescript and Golang code generator for generating type-safe client and tables for EOS-compatible contracts.
 * [greymass/abi2core](https://github.com/greymass/abi2core) ⭐ 1 | 🐛 2 | 🌐 TypeScript | 📅 2023-05-24 - Command line utility to convert ABI definitions to greymass/eosio type definitions.
@@ -367,4 +367,4 @@ DApp resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
