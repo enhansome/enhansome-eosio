@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "AntelopeIO/spring",
-          "description": null,
+          "description": "AntelopeIO/spring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -35,7 +35,7 @@
             {
               "node_type": "item",
               "title": "EOS Smart Contract Development Security Best Practices",
-              "description": null,
+              "description": "slowmist/eos-smart-contract-security-best-practices",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -76,7 +76,7 @@
                 {
                   "node_type": "item",
                   "title": "eoscanada/eosc",
-                  "description": null,
+                  "description": "eoscanada/eosc",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -273,7 +273,7 @@
                 {
                   "node_type": "item",
                   "title": "Android client for EOS.IO",
-                  "description": null,
+                  "description": "swapnibble/EosCommander",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -294,7 +294,7 @@
                 {
                   "node_type": "item",
                   "title": "OracleChain/PocketEOS-Android",
-                  "description": null,
+                  "description": "OracleChain/PocketEOS-Android",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -315,7 +315,7 @@
                 {
                   "node_type": "item",
                   "title": "OracleChain/PocketEOS-IOS",
-                  "description": null,
+                  "description": "OracleChain/PocketEOS-IOS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2214,7 +2214,7 @@
         {
           "node_type": "item",
           "title": "Public EOSIO chains and their telegram chats",
-          "description": null,
+          "description": "eosio-ecosystem/chains",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2372,7 +2372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:57:07.957Z",
+    "last_updated": "2026-10-03T04:42:08.469Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome EOSIO resources for users and developers.",
