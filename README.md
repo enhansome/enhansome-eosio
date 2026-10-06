@@ -114,7 +114,7 @@ Various software and tools.
 
 * [Android client for EOS.IO](https://github.com/playerone-id/EosCommander) ⭐ 213 | 🐛 2 | 🌐 Java | 📅 2020-05-21
 * [OracleChain/PocketEOS-Android](https://github.com/OracleChain/PocketEOS-Android) ⭐ 156 | 🐛 1 | 🌐 Java | 📅 2018-09-14
-* [OracleChain/PocketEOS-IOS](https://github.com/OracleChain/PocketEOS-IOS) ⭐ 111 | 🐛 5 | 🌐 Objective-C | 📅 2018-11-22
+* [OracleChain/PocketEOS-IOS](https://github.com/OracleChain/PocketEOS-IOS) ⭐ 110 | 🐛 5 | 🌐 Objective-C | 📅 2018-11-22
 
 ### Account services
 

@@ -328,7 +328,7 @@
                     "open_issues": 5,
                     "owner": "OracleChain",
                     "repo": "PocketEOS-IOS",
-                    "stars": 111,
+                    "stars": 110,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
@@ -2372,7 +2372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T00:47:14.982Z",
+    "last_updated": "2026-10-06T10:16:37.149Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome EOSIO resources for users and developers.",
