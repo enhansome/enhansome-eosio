@@ -510,7 +510,7 @@
                     "open_issues": 53,
                     "owner": "EOSIO",
                     "repo": "eosjs",
-                    "stars": 1423,
+                    "stars": 1422,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:09:38.270Z"
@@ -2372,7 +2372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T23:34:24.211Z",
+    "last_updated": "2026-10-08T23:44:11.568Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome EOSIO resources for users and developers.",
