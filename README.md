@@ -102,7 +102,7 @@ Various software and tools.
 * [Anchor Wallet](https://greymass.com/en/anchor/)
   * [greymass/anchor](https://github.com/greymass/anchor) ⭐ 589 | 🐛 243 | 🌐 JavaScript | 📅 2026-10-03 - Official GitHub.
 * [Scatter](https://get-scatter.com/)
-  * [GetScatter/ScatterDesktop](https://github.com/GetScatter/ScatterDesktop) ⭐ 493 | 🐛 149 | 🌐 JavaScript | 📅 2024-07-22 - Official GitHub.
+  * [GetScatter/ScatterDesktop](https://github.com/GetScatter/ScatterDesktop) ⭐ 494 | 🐛 149 | 🌐 JavaScript | 📅 2024-07-22 - Official GitHub.
 * [EOS Toolkit](https://eostoolkit.io/)
   * [eostoolkit/eostoolkit](https://github.com/eostoolkit/eostoolkit) ⚠️ Archived - Official GitHub.
 * [SimplEOS](https://eosrio.io/simpleos/)
@@ -367,4 +367,4 @@ DApp resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
