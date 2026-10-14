@@ -106,7 +106,7 @@ Various software and tools.
 * [EOS Toolkit](https://eostoolkit.io/)
   * [eostoolkit/eostoolkit](https://github.com/eostoolkit/eostoolkit) ⚠️ Archived - Official GitHub.
 * [SimplEOS](https://eosrio.io/simpleos/)
-  * [eosrio/simpleos](https://github.com/eosrio/simpleos) ⭐ 158 | 🐛 52 | 🌐 TypeScript | 📅 2026-10-13 - Official GitHub.
+  * [eosrio/simpleos](https://github.com/eosrio/simpleos) ⭐ 158 | 🐛 52 | 🌐 TypeScript | 📅 2026-10-14 - Official GitHub.
 * [EOS Authority Web Wallet](https://eosauthority.com/dashboard)
 * [Wax Cloud Wallet](https://all-access.wax.io/)
 
@@ -228,7 +228,7 @@ All about development on EOSIO platform.
 * [EOSIO/eosio.contracts](https://github.com/EOSIO/eosio.contracts/tree/master/tests) ⚠️ Archived - Official C++ system contract test suite (notoriously difficult to use).
 * [tokenika/eosfactory](https://github.com/tokenika/eosfactory) ⭐ 234 | 🐛 12 | 🌐 Python | 📅 2023-03-28 - Python-based EOSIO smart-contract development & unit testing framework.
 * [EOSLIME](https://github.com/LimeChain/eoslime) ⭐ 35 | 🐛 8 | 🌐 JavaScript | 📅 2023-01-27 - Truffle like framework for development, deployment and testing on EOS blockchains.
-* [infeos](https://github.com/infiniteXLabs/infeos) ⭐ 30 | 🐛 6 | 🌐 JavaScript | 📅 2019-10-08 - JavaScript based framework for development, building, deploying and unit testing EOSIO dApps.
+* [infeos](https://github.com/infiniteXLabs/infeos) ⭐ 29 | 🐛 6 | 🌐 JavaScript | 📅 2019-10-08 - JavaScript based framework for development, building, deploying and unit testing EOSIO dApps.
 * [haderech/vert](https://github.com/haderech/vert) ⚠️ Archived - JavaScript EOS-VM emulation RunTime for WASM-based blockchain contracts. Run and test smart contracts.
 * [Hydra](https://docs.klevoya.com/hydra/about/getting-started/) - JavaScript framework for testing EOSIO smart contracts.
 
@@ -278,7 +278,7 @@ All about development on EOSIO platform.
 * [Patroneos](https://github.com/EOSIO/patroneos) ⭐ 47 | 🐛 2 | 🌐 Go | 📅 2022-09-21 - RPC Checkpoint for EOSIO nodes.
 * [pete001/eos-bp-failover](https://github.com/pete001/eos-bp-failover) ⭐ 32 | 🐛 2 | 🌐 Shell | 📅 2019-01-22 - EOSIO Block Producer Failover Scripts.
 * [Cypherglass WINDSHIELD](https://github.com/cypherglassdotcom/windshield) ⭐ 18 | 🐛 14 | 🌐 Elm | 📅 2018-08-13 - A dashboard tool for monitoring internal Block Producer infrastructure.
-* [eosdetroit/nodesuite](https://github.com/eosdetroit/nodesuite) ⭐ 16 | 🐛 0 | 🌐 Jinja | 📅 2025-11-08 - Nodesuite is a tool to simplify the management and configuration of eosio nodes through the use of Ansible playbooks.
+* [eosdetroit/nodesuite](https://github.com/eosdetroit/nodesuite) ⭐ 15 | 🐛 0 | 🌐 Jinja | 📅 2025-11-08 - Nodesuite is a tool to simplify the management and configuration of eosio nodes through the use of Ansible playbooks.
 * [GoogleCloudPlatform/eos-block-producer](https://github.com/GoogleCloudPlatform/eos-block-producer) ⚠️ Archived - Terraform module to create an EOS Block Producer (BP) node on Google Cloud Platform (GCP).
 * [eosdetroit/bp-playbook](https://github.com/eosdetroit/bp-playbook) ⭐ 7 | 🐛 0 | 🌐 Shell | 📅 2018-06-02 - A set of playbooks to make managing EOS.IO nodes easier.
 * [eoseoul/eos-ramcost](https://github.com/eoseoul/eos-ramcost) ⭐ 6 | 🐛 0 | 🌐 C++ | 📅 2022-03-13 - Adjusting supply of a token and connector balance of bancor during final phase of boot.
@@ -367,4 +367,4 @@ DApp resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
