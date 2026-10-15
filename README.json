@@ -120,7 +120,7 @@
                         "open_issues": 384,
                         "owner": "EOSIO",
                         "repo": "eos",
-                        "stars": 11165,
+                        "stars": 11164,
                         "topics": [
                           "eosio"
                         ]
@@ -459,7 +459,7 @@
                     "open_issues": 384,
                     "owner": "EOSIO",
                     "repo": "eos",
-                    "stars": 11165,
+                    "stars": 11164,
                     "topics": [
                       "eosio"
                     ]
@@ -2372,7 +2372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T22:16:33.872Z",
+    "last_updated": "2026-10-15T22:14:01.877Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome EOSIO resources for users and developers.",
