@@ -193,7 +193,7 @@ All about development on EOSIO platform.
 * [React Native EOS](https://github.com/EvaCoop/react-native-eos) ⭐ 41 | 🐛 4 | 🌐 C | 📅 2021-12-01 - Native implementation of client to eos blockchain communication.
 * [memtrip/eosreach-android](https://github.com/memtrip/eosreach-android) ⚠️ Archived - Kotlin / Android library.
 * [EOSRPC API Wrapper for Elixir](https://github.com/cambiatus/eosrpc-elixir-wrapper) ⭐ 19 | 🐛 0 | 🌐 Elixir | 📅 2021-04-12 - Elixir library.
-* [greymass/swift-eosio](https://github.com/greymass/swift-eosio) ⭐ 17 | 🐛 2 | 🌐 Swift | 📅 2026-08-08 - Swift SDK with ESR support.
+* [greymass/swift-eosio](https://github.com/greymass/swift-eosio) ⭐ 16 | 🐛 2 | 🌐 Swift | 📅 2026-08-08 - Swift SDK with ESR support.
 * [eosnet](https://github.com/SNIKO/eosnet) ⭐ 11 | 🐛 2 | 🌐 C# | 📅 2019-03-17 - .NET library.
 * [Transit API for EOS](https://www.eostransit.com/) - Connecting signature providers and dApps through an open-source, modular, and simple standard for EOSIO-based blockchains.
   * [eosnewyork/eos-transit](https://github.com/eosnewyork/eos-transit) ⭐ 86 | 🐛 169 | 🌐 TypeScript | 📅 2023-01-07 - Official GitHub.
@@ -219,7 +219,7 @@ All about development on EOSIO platform.
 
 [Intro blog by @cc32d9](https://cc32d9.medium.com/history-and-notifications-in-eosio-blockchain-8255194af93)
 
-* [Hyperion History API](https://github.com/eosrio/Hyperion-History-API) ⭐ 136 | 🐛 27 | 🌐 TypeScript | 📅 2026-10-20 - Scalable Full History API Solution for EOSIO based blockchains.
+* [Hyperion History API](https://github.com/eosrio/Hyperion-History-API) ⭐ 136 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-21 - Scalable Full History API Solution for EOSIO based blockchains.
 * [EOSIO/history-tools](https://github.com/EOSIO/history-tools) ⚠️ Archived - Official EOSIO history API plugin.
 * [EOSIO Light API](https://github.com/cc32d9/eosio_light_api) ⭐ 58 | 🐛 10 | 🌐 Perl | 📅 2025-10-31 - Historic information about EOSIO blockchain accounts and token balances.
 
@@ -367,4 +367,4 @@ DApp resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
