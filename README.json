@@ -120,7 +120,7 @@
                         "open_issues": 384,
                         "owner": "EOSIO",
                         "repo": "eos",
-                        "stars": 11163,
+                        "stars": 11162,
                         "topics": [
                           "eosio"
                         ]
@@ -459,7 +459,7 @@
                     "open_issues": 384,
                     "owner": "EOSIO",
                     "repo": "eos",
-                    "stars": 11163,
+                    "stars": 11162,
                     "topics": [
                       "eosio"
                     ]
@@ -1063,8 +1063,8 @@
                     "id": 170685567,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-26T22:58:00Z",
-                    "open_issues": 55,
+                    "last_commit": "2026-10-27T22:39:01Z",
+                    "open_issues": 64,
                     "owner": "eosrio",
                     "repo": "hyperion-history-api",
                     "stars": 136,
@@ -2372,7 +2372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T23:06:18.128Z",
+    "last_updated": "2026-10-27T22:56:11.296Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome EOSIO resources for users and developers.",
