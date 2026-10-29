@@ -100,7 +100,7 @@ Various software and tools.
 * [cleos](https://developers.eos.io/eosio-cleos/docs)
   * [EOSIO/eos](https://github.com/EOSIO/eos/tree/master/programs/cleos) ⚠️ Archived - Official GitHub (part of EOSIO).
 * [Anchor Wallet](https://greymass.com/en/anchor/)
-  * [greymass/anchor](https://github.com/greymass/anchor) ⭐ 590 | 🐛 246 | 🌐 JavaScript | 📅 2026-10-25 - Official GitHub.
+  * [greymass/anchor](https://github.com/greymass/anchor) ⭐ 590 | 🐛 246 | 🌐 JavaScript | 📅 2026-10-29 - Official GitHub.
 * [Scatter](https://get-scatter.com/)
   * [GetScatter/ScatterDesktop](https://github.com/GetScatter/ScatterDesktop) ⭐ 494 | 🐛 149 | 🌐 JavaScript | 📅 2024-07-22 - Official GitHub.
 * [EOS Toolkit](https://eostoolkit.io/)
@@ -219,7 +219,7 @@ All about development on EOSIO platform.
 
 [Intro blog by @cc32d9](https://cc32d9.medium.com/history-and-notifications-in-eosio-blockchain-8255194af93)
 
-* [Hyperion History API](https://github.com/eosrio/Hyperion-History-API) ⭐ 136 | 🐛 64 | 🌐 TypeScript | 📅 2026-10-28 - Scalable Full History API Solution for EOSIO based blockchains.
+* [Hyperion History API](https://github.com/eosrio/Hyperion-History-API) ⭐ 136 | 🐛 73 | 🌐 TypeScript | 📅 2026-10-29 - Scalable Full History API Solution for EOSIO based blockchains.
 * [EOSIO/history-tools](https://github.com/EOSIO/history-tools) ⚠️ Archived - Official EOSIO history API plugin.
 * [EOSIO Light API](https://github.com/cc32d9/eosio_light_api) ⭐ 58 | 🐛 10 | 🌐 Perl | 📅 2025-10-31 - Historic information about EOSIO blockchain accounts and token balances.
 
@@ -367,4 +367,4 @@ DApp resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
