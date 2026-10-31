@@ -1064,7 +1064,7 @@
                     "language": "TypeScript",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-30T01:06:12Z",
-                    "open_issues": 73,
+                    "open_issues": 74,
                     "owner": "eosrio",
                     "repo": "hyperion-history-api",
                     "stars": 136,
@@ -2372,7 +2372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T22:57:17.962Z",
+    "last_updated": "2026-10-31T22:27:17.574Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome EOSIO resources for users and developers.",
