@@ -226,7 +226,7 @@ All about development on EOSIO platform.
 #### Testing
 
 * [EOSIO/eosio.contracts](https://github.com/EOSIO/eosio.contracts/tree/master/tests) ⚠️ Archived - Official C++ system contract test suite (notoriously difficult to use).
-* [tokenika/eosfactory](https://github.com/tokenika/eosfactory) ⭐ 234 | 🐛 12 | 🌐 Python | 📅 2023-03-28 - Python-based EOSIO smart-contract development & unit testing framework.
+* [tokenika/eosfactory](https://github.com/tokenika/eosfactory) ⭐ 234 | 🐛 10 | 🌐 Python | 📅 2023-03-28 - Python-based EOSIO smart-contract development & unit testing framework.
 * [EOSLIME](https://github.com/LimeChain/eoslime) ⭐ 35 | 🐛 8 | 🌐 JavaScript | 📅 2023-01-27 - Truffle like framework for development, deployment and testing on EOS blockchains.
 * [infeos](https://github.com/infiniteXLabs/infeos) ⭐ 29 | 🐛 6 | 🌐 JavaScript | 📅 2019-10-08 - JavaScript based framework for development, building, deploying and unit testing EOSIO dApps.
 * [haderech/vert](https://github.com/haderech/vert) ⚠️ Archived - JavaScript EOS-VM emulation RunTime for WASM-based blockchain contracts. Run and test smart contracts.
@@ -367,4 +367,4 @@ DApp resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
