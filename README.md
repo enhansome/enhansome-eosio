@@ -60,7 +60,7 @@ EOSIO learning resources.
 
 ### Websites
 
-* [EOS Smart Contract Development Security Best Practices](https://github.com/slowmist/eos-smart-contract-security-best-practices/blob/master/README_EN.md) ⭐ 392 | 🐛 0 | 📅 2025-07-31
+* [EOS Smart Contract Development Security Best Practices](https://github.com/slowmist/eos-smart-contract-security-best-practices/blob/master/README_EN.md) ⭐ 393 | 🐛 0 | 📅 2025-07-31
 * [EOSIO Developer Portal](https://developers.eos.io/) - A great place to begin your EOSIO blockchain journey.
 * [EOS Learning Resources - EOS Costa Rica](https://guide.eoscostarica.io/)
 * [ESC - EOS Study Center](https://eosvenezuela.io/esc.html)
@@ -112,7 +112,7 @@ Various software and tools.
 
 #### Mobile
 
-* [Android client for EOS.IO](https://github.com/playerone-id/EosCommander) ⭐ 213 | 🐛 2 | 🌐 Java | 📅 2020-05-21
+* [Android client for EOS.IO](https://github.com/playerone-id/EosCommander) ⭐ 210 | 🐛 2 | 🌐 Java | 📅 2020-05-21
 * [OracleChain/PocketEOS-Android](https://github.com/OracleChain/PocketEOS-Android) ⭐ 156 | 🐛 1 | 🌐 Java | 📅 2018-09-14
 * [OracleChain/PocketEOS-IOS](https://github.com/OracleChain/PocketEOS-IOS) ⭐ 110 | 🐛 5 | 🌐 Objective-C | 📅 2018-11-22
 
@@ -219,9 +219,9 @@ All about development on EOSIO platform.
 
 [Intro blog by @cc32d9](https://cc32d9.medium.com/history-and-notifications-in-eosio-blockchain-8255194af93)
 
-* [Hyperion History API](https://github.com/eosrio/Hyperion-History-API) ⭐ 137 | 🐛 90 | 🌐 TypeScript | 📅 2026-11-10 - Scalable Full History API Solution for EOSIO based blockchains.
+* [Hyperion History API](https://github.com/eosrio/Hyperion-History-API) ⭐ 137 | 🐛 90 | 🌐 TypeScript | 📅 2026-11-14 - Scalable Full History API Solution for EOSIO based blockchains.
 * [EOSIO/history-tools](https://github.com/EOSIO/history-tools) ⚠️ Archived - Official EOSIO history API plugin.
-* [EOSIO Light API](https://github.com/cc32d9/eosio_light_api) ⭐ 58 | 🐛 10 | 🌐 Perl | 📅 2025-10-31 - Historic information about EOSIO blockchain accounts and token balances.
+* [EOSIO Light API](https://github.com/cc32d9/eosio_light_api) ⭐ 58 | 🐛 9 | 🌐 Perl | 📅 2025-10-31 - Historic information about EOSIO blockchain accounts and token balances.
 
 #### Testing
 
