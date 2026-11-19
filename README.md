@@ -244,7 +244,7 @@ All about development on EOSIO platform.
 
 * [EOSIO/eosio.cdt](https://github.com/EOSIO/eosio.cdt) ⚠️ Archived - EOSIO.CDT (Contract Development Toolkit) is a suite of tools used to build EOSIO contracts.
 * [Octopus](https://github.com/pventuzelo/octopus) ⚠️ Archived - Security Analysis tool for WebAssembly and Blockchain Smart Contracts (BTC/ETH/NEO/EOS).
-* [Elliptic curve cryptography functions (ECC)](https://github.com/EOSIO/eosjs-ecc) ⭐ 290 | 🐛 46 | 🌐 JavaScript | 📅 2023-07-11 - Private Key, Public Key, Signature, AES, Encryption / Decryption.
+* [Elliptic curve cryptography functions (ECC)](https://github.com/EOSIO/eosjs-ecc) ⭐ 291 | 🐛 46 | 🌐 JavaScript | 📅 2023-07-11 - Private Key, Public Key, Signature, AES, Encryption / Decryption.
   * [Securely Generating an EOS Key Pair Using Official EOS.IO Code](https://www.youtube.com/watch?v=G1GUpjc5hkw) - YouTube.
 * [EOSIO Ethereum Virtual Machine (EVM)](https://github.com/jafri/eosio.evm) ⭐ 93 | 🐛 5 | 🌐 C++ | 📅 2024-10-29 - Ethereum Virtual Machine on EOSIO.
 * [EOSEssentials/EOSDrops](https://github.com/EOSEssentials/EOSDrops) ⭐ 55 | 🐛 0 | 🌐 JavaScript | 📅 2018-07-03 - Airdropping tool for the EOSIO blockchain.
@@ -367,4 +367,4 @@ DApp resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
