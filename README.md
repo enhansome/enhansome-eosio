@@ -60,7 +60,7 @@ EOSIO learning resources.
 
 ### Websites
 
-* [EOS Smart Contract Development Security Best Practices](https://github.com/slowmist/eos-smart-contract-security-best-practices/blob/master/README_EN.md) ⭐ 393 | 🐛 0 | 📅 2025-07-31
+* [EOS Smart Contract Development Security Best Practices](https://github.com/slowmist/eos-smart-contract-security-best-practices/blob/master/README_EN.md) ⭐ 392 | 🐛 0 | 📅 2025-07-31
 * [EOSIO Developer Portal](https://developers.eos.io/) - A great place to begin your EOSIO blockchain journey.
 * [EOS Learning Resources - EOS Costa Rica](https://guide.eoscostarica.io/)
 * [ESC - EOS Study Center](https://eosvenezuela.io/esc.html)
@@ -181,7 +181,7 @@ All about development on EOSIO platform.
 #### API libraries
 
 * [EOSIO/eosjs](https://github.com/EOSIO/eosjs) ⚠️ Archived - Official JavaScript SDK.
-* [EOS.IO Go API library](https://github.com/eoscanada/eos-go) ⭐ 554 | 🐛 22 | 🌐 Go | 📅 2024-10-29 - Go library.
+* [EOS.IO Go API library](https://github.com/eoscanada/eos-go) ⭐ 553 | 🐛 22 | 🌐 Go | 📅 2024-10-29 - Go library.
 * [EOS Java API Wrapper](https://github.com/EOSEssentials/eos-java-rpc-wrapper) ⭐ 163 | 🐛 12 | 🌐 Java | 📅 2020-10-13 - Java library.
 * [EOSIO/eosio-java](https://github.com/EOSIO/eosio-java) ⚠️ Archived - Official Java SDK.
   * [eosiojava API](https://eosio.github.io/eosio-java/) - API documentation.
@@ -193,7 +193,7 @@ All about development on EOSIO platform.
 * [React Native EOS](https://github.com/EvaCoop/react-native-eos) ⭐ 41 | 🐛 4 | 🌐 C | 📅 2021-12-01 - Native implementation of client to eos blockchain communication.
 * [memtrip/eosreach-android](https://github.com/memtrip/eosreach-android) ⚠️ Archived - Kotlin / Android library.
 * [EOSRPC API Wrapper for Elixir](https://github.com/cambiatus/eosrpc-elixir-wrapper) ⭐ 19 | 🐛 0 | 🌐 Elixir | 📅 2021-04-12 - Elixir library.
-* [greymass/swift-eosio](https://github.com/greymass/swift-eosio) ⭐ 15 | 🐛 2 | 🌐 Swift | 📅 2026-08-08 - Swift SDK with ESR support.
+* [greymass/swift-eosio](https://github.com/greymass/swift-eosio) ⭐ 15 | 🐛 2 | 🌐 Swift | 📅 2026-11-19 - Swift SDK with ESR support.
 * [eosnet](https://github.com/SNIKO/eosnet) ⭐ 11 | 🐛 2 | 🌐 C# | 📅 2019-03-17 - .NET library.
 * [Transit API for EOS](https://www.eostransit.com/) - Connecting signature providers and dApps through an open-source, modular, and simple standard for EOSIO-based blockchains.
   * [eosnewyork/eos-transit](https://github.com/eosnewyork/eos-transit) ⭐ 86 | 🐛 169 | 🌐 TypeScript | 📅 2023-01-07 - Official GitHub.
@@ -367,4 +367,4 @@ DApp resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
