@@ -150,7 +150,7 @@
                         "open_issues": 246,
                         "owner": "greymass",
                         "repo": "anchor",
-                        "stars": 590,
+                        "stars": 589,
                         "topics": [
                           "authenticator",
                           "eos",
@@ -2372,7 +2372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T01:14:37.615Z",
+    "last_updated": "2026-11-21T00:47:01.368Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome EOSIO resources for users and developers.",
