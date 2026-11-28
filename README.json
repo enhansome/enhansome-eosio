@@ -120,7 +120,7 @@
                         "open_issues": 384,
                         "owner": "EOSIO",
                         "repo": "eos",
-                        "stars": 11163,
+                        "stars": 11162,
                         "topics": [
                           "eosio"
                         ]
@@ -459,7 +459,7 @@
                     "open_issues": 384,
                     "owner": "EOSIO",
                     "repo": "eos",
-                    "stars": 11163,
+                    "stars": 11162,
                     "topics": [
                       "eosio"
                     ]
@@ -1332,7 +1332,7 @@
                 "open_issues": 86,
                 "owner": "EOSIO",
                 "repo": "eosio.cdt",
-                "stars": 507,
+                "stars": 505,
                 "topics": [
                   "eosio",
                   "wasm"
@@ -2372,7 +2372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T02:09:11.690Z",
+    "last_updated": "2026-11-28T01:56:37.472Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome EOSIO resources for users and developers.",
